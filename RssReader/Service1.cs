@@ -21,9 +21,10 @@ namespace RssReader
     {
         XmlDocument rssXmlDoc;
         XmlSerializer serializer;
-        List<FeedItem> NewsList;
+        List<FeedItem> FeedItems;
         System.Timers.Timer servicetimer;
-        string IOPath, logfile, urlOne, urlTwo, outputxmlpath;
+        string IOPath, logfile, outputxmlpath,url;
+
 
         public RssReader()
         {
@@ -34,7 +35,7 @@ namespace RssReader
             servicetimer = new System.Timers.Timer(1000 * 60 * 5);
             rssXmlDoc = new XmlDocument();
             serializer = new XmlSerializer(typeof(FeedItem));
-            NewsList = new List<FeedItem>();
+            FeedItems = new List<FeedItem>();
 
 
         }
@@ -54,34 +55,33 @@ namespace RssReader
 
 
             IOPath = ConfigurationManager.AppSettings["IOPath"];
-            urlOne = ConfigurationManager.AppSettings["urlOne"];
-            urlTwo = ConfigurationManager.AppSettings["urlTwo"];
+            
 
-            logfile = Path.Combine(IOPath, "Q2-NewsCrawler.txt");
-            outputxmlpath = Path.Combine(IOPath, "News.xml");
+            logfile = Path.Combine(IOPath, "RssFeedService.txt");
+            outputxmlpath = Path.Combine(IOPath, "Feeds.xml");
 
             writetoLog("\nService Started!");
             writetoLog("IO Path:" + IOPath + " ");
             writetoLog("Output File Path:" + outputxmlpath + " ");
         }
 
-        private void WorkerFunction(object sender, ElapsedEventArgs e)
+        private void WorkerFunction(object sender, System.Timers.ElapsedEventArgs e)
         {
-            CrawlandStore(urlOne);
-            CrawlandStore(urlTwo);
-            writetoLog("Sorting News Items");
-            NewsList.Sort();
-            WriteNewsToXml();
+            CrawlandStore(url);
+            
+            writetoLog("Sorting Feed Items");
+            FeedItems.Sort();
+            WriteFeedsToXml();
 
         }
 
-        private void WriteNewsToXml()
+        private void WriteFeedsToXml()
         {
             writetoLog("Wrting To Xml");
-            XmlSerializer serializer = new XmlSerializer(NewsList.GetType());
+            XmlSerializer serializer = new XmlSerializer(FeedItems.GetType());
             StreamWriter writer = new StreamWriter(outputxmlpath);
-            serializer.Serialize(writer.BaseStream, NewsList);
-            NewsList.Clear();
+            serializer.Serialize(writer.BaseStream, FeedItems);
+            FeedItems.Clear();
             writer.Close();
         }
 
@@ -102,7 +102,7 @@ namespace RssReader
             {
                 FeedItem temp = ((FeedItem)serializer.Deserialize(new XmlNodeReader(ItemList[i]))).FurnishNews();
                 temp.setChannel(channel[0].InnerText);
-                NewsList.Add(temp);
+                FeedItems.Add(temp);
 
             }
         }
