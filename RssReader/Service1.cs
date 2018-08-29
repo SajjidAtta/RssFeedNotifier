@@ -101,7 +101,7 @@ namespace RssReader
             for (int i = 0; i < ItemList.Count; i++)
             {
                 FeedItem temp = ((FeedItem)serializer.Deserialize(new XmlNodeReader(ItemList[i]))).FurnishFeedItem();
-                temp.setChannel(channel[0].InnerText);
+              
                 FeedItems.Add(temp);
 
             }

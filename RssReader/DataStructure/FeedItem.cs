@@ -39,11 +39,7 @@ namespace RssReader.DataStructure
 
             System.Console.WriteLine();
         }
-        public void setChannel(string str)
-        {
-
-        }
-
+      
 
         public int CompareTo(FeedItem obj)
         {
