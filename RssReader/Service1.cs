@@ -1,4 +1,5 @@
-﻿using RssReader.DataStructure;
+﻿using LogWriter;
+using RssReader.DataStructure;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -32,22 +33,16 @@ namespace RssReader
       
             InitializeComponent();
             //Service will call workfunction after 5 Minutes.   
-            servicetimer = new System.Timers.Timer(1000 * 60 * 5);
+            servicetimer = new System.Timers.Timer(1000 * 60 * 1);
             rssXmlDoc = new XmlDocument();
             serializer = new XmlSerializer(typeof(FeedItem));
             FeedItems = new List<FeedItem>();
 
 
         }
-        public void writetoLog(string msg)
-        {
-            using (StreamWriter sw = File.AppendText(logfile))
-            {
-                sw.WriteLine(msg + " " + System.DateTime.Now);
-            }
-        }
         protected override void OnStart(string[] args)
         {
+            System.Diagnostics.Debugger.Launch();
             //Intializing Variables
 
             servicetimer.Elapsed += new System.Timers.ElapsedEventHandler(WorkerFunction);
@@ -60,16 +55,17 @@ namespace RssReader
             logfile = Path.Combine(IOPath, "RssFeedService.txt");
             outputxmlpath = Path.Combine(IOPath, "Feeds.xml");
 
-            writetoLog("\nService Started!");
-            writetoLog("IO Path:" + IOPath + " ");
-            writetoLog("Output File Path:" + outputxmlpath + " ");
+            Logger.Instance.Log(Logger.MessageType.DEBUG,"Service Started!");
+            Logger.Instance.Log(Logger.MessageType.INF,"IO Path: {0}" ,IOPath);
+            Logger.Instance.Log(Logger.MessageType.INF,"Output File Path: {0}",outputxmlpath);
         }
 
         private void WorkerFunction(object sender, System.Timers.ElapsedEventArgs e)
         {
+            url = " https://www.upwork.com/o/jobs/browse/skill/microsoft-excel/";
             CrawlandStore(url);
             
-            writetoLog("Sorting Feed Items");
+            Logger.Instance.Log(Logger.MessageType.INF,"Sorting Feed Items");
             FeedItems.Sort();
             WriteFeedsToXml();
 
@@ -77,7 +73,7 @@ namespace RssReader
 
         private void WriteFeedsToXml()
         {
-            writetoLog("Wrting To Xml");
+            Logger.Instance.Log(Logger.MessageType.INF,"Writing To Xml");
             XmlSerializer serializer = new XmlSerializer(FeedItems.GetType());
             StreamWriter writer = new StreamWriter(outputxmlpath);
             serializer.Serialize(writer.BaseStream, FeedItems);
@@ -89,14 +85,24 @@ namespace RssReader
         {
 
             string xmlStr;
-            using (var wc = new WebClient())
+            //Got an Error: "The request was aborted: Could not create SSL/TLS secure channel. Fix: https://stackoverflow.com/questions/2859790/the-request-was-aborted-could-not-create-ssl-tls-secure-channel
+            //Fix Start
+            ServicePointManager.Expect100Continue = true;
+            ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
+            //Fix End
+            Logger.Instance.Log(Logger.MessageType.INF, "Crawling RSS from: " + url);
+            try
             {
-                xmlStr = wc.DownloadString(url);
-            }
+                using (var wc = new WebClient())
+                {
+                    wc.Credentials = System.Net.CredentialCache.DefaultNetworkCredentials;
+                    xmlStr = wc.DownloadString(url);
+                }
+            
             var xmlDoc = new XmlDocument();
-            writetoLog("Crawling News from: " + url);
+            
             rssXmlDoc.Load(url);
-            XmlNodeList channel = (rssXmlDoc.GetElementsByTagName("title"));
+                Logger.Instance.Log(Logger.MessageType.INF, "Deserializing RSS");
             XmlNodeList ItemList = rssXmlDoc.GetElementsByTagName("item");
             for (int i = 0; i < ItemList.Count; i++)
             {
@@ -105,11 +111,17 @@ namespace RssReader
                 FeedItems.Add(temp);
 
             }
+            }
+            catch (Exception exp)
+            {
+                
+                Logger.Instance.Log(Logger.MessageType.ERROR, "Could Not Access/Deserialize URL: {0} | Exception: {1}", url, exp.Message);
+            }
         }
 
         protected override void OnStop()
         {
-            writetoLog("\nService Stopped!");
+            Logger.Instance.Log(Logger.MessageType.DEBUG,"Service Stopped!");
         }
     }
 }

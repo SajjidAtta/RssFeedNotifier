@@ -31,7 +31,7 @@
             // 
             // RssReader
             // 
-            this.ServiceName = "Service1";
+            this.ServiceName = "RssReader";
 
         }
 
