@@ -13,15 +13,17 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
+using System.Xml.Linq;
 using System.Xml.Serialization;
 
 namespace RssReader
 {
-    //#TODO:Just Pasted, Need to Update
+    
     public partial class RssReader : ServiceBase
     {
         XmlDocument rssXmlDoc;
         XmlSerializer serializer;
+        [XmlArrayItem()]
         List<FeedItem> FeedItems;
         System.Timers.Timer servicetimer;
         string IOPath, logfile, outputxmlpath,url;
@@ -33,7 +35,7 @@ namespace RssReader
       
             InitializeComponent();
             //Service will call workfunction after 5 Minutes.   
-            servicetimer = new System.Timers.Timer(1000 * 60 * 1);
+            servicetimer = new System.Timers.Timer(1000 * 60 *5);
             rssXmlDoc = new XmlDocument();
             serializer = new XmlSerializer(typeof(FeedItem));
             FeedItems = new List<FeedItem>();
@@ -50,8 +52,7 @@ namespace RssReader
 
 
             IOPath = ConfigurationManager.AppSettings["IOPath"];
-            
-
+            url = ConfigurationManager.AppSettings["url"];
             logfile = Path.Combine(IOPath, "RssFeedService.txt");
             outputxmlpath = Path.Combine(IOPath, "Feeds.xml");
 
@@ -62,12 +63,10 @@ namespace RssReader
 
         private void WorkerFunction(object sender, System.Timers.ElapsedEventArgs e)
         {
-            url = " https://www.upwork.com/o/jobs/browse/skill/microsoft-excel/";
-            CrawlandStore(url);
             
-            Logger.Instance.Log(Logger.MessageType.INF,"Sorting Feed Items");
-            FeedItems.Sort();
-            WriteFeedsToXml();
+            
+            CrawlandStore(url);//Store in FeedItems List
+            WriteFeedsToXml();//Serialize FeedItems List to XML
 
         }
 
@@ -87,27 +86,26 @@ namespace RssReader
             string xmlStr;
             //Got an Error: "The request was aborted: Could not create SSL/TLS secure channel. Fix: https://stackoverflow.com/questions/2859790/the-request-was-aborted-could-not-create-ssl-tls-secure-channel
             //Fix Start
-            ServicePointManager.Expect100Continue = true;
             ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
             //Fix End
             Logger.Instance.Log(Logger.MessageType.INF, "Crawling RSS from: " + url);
+            rssXmlDoc = new XmlDocument();
             try
             {
                 using (var wc = new WebClient())
                 {
-                    wc.Credentials = System.Net.CredentialCache.DefaultNetworkCredentials;
+                    //wc.Credentials = System.Net.CredentialCache.DefaultNetworkCredentials;
+                    wc.Headers.Add("user-agent", "MyRSSReader/1.0");
                     xmlStr = wc.DownloadString(url);
+                    rssXmlDoc.LoadXml( xmlStr);
                 }
             
-            var xmlDoc = new XmlDocument();
             
-            rssXmlDoc.Load(url);
-                Logger.Instance.Log(Logger.MessageType.INF, "Deserializing RSS");
+            Logger.Instance.Log(Logger.MessageType.INF, "Deserializing RSS");
             XmlNodeList ItemList = rssXmlDoc.GetElementsByTagName("item");
             for (int i = 0; i < ItemList.Count; i++)
             {
-                FeedItem temp = ((FeedItem)serializer.Deserialize(new XmlNodeReader(ItemList[i]))).FurnishFeedItem();
-              
+                FeedItem temp = ((FeedItem)serializer.Deserialize(new XmlNodeReader(ItemList[i]))).FurnishFeedItem();  
                 FeedItems.Add(temp);
 
             }
