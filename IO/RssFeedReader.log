@@ -1,0 +1,551 @@
+9/15/2018 3:05:29 AM -- [DEBUG] -- Service Started!
+9/15/2018 3:05:29 AM -- [INF] -- IO Path: D:\PersonelSVN\trunk\RssFeedNotifier\IO
+9/15/2018 3:05:30 AM -- [INF] -- Output File Path: D:\PersonelSVN\trunk\RssFeedNotifier\IO\Feeds.xml
+9/15/2018 3:10:29 AM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/15/2018 3:10:31 AM -- [INF] -- Deserializing RSS
+9/15/2018 3:10:31 AM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/15/2018 3:10:33 AM -- [INF] -- Deserializing RSS
+9/15/2018 3:10:33 AM -- [INF] -- Writing To Xml
+9/15/2018 3:15:29 AM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/15/2018 3:15:38 AM -- [INF] -- Deserializing RSS
+9/15/2018 3:15:38 AM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/15/2018 3:15:39 AM -- [INF] -- Deserializing RSS
+9/15/2018 3:15:39 AM -- [INF] -- Writing To Xml
+9/24/2018 6:58:33 AM -- [DEBUG] -- Service Started!
+9/24/2018 6:58:33 AM -- [INF] -- IO Path: D:\PersonelSVN\trunk\RssFeedNotifier\IO
+9/24/2018 6:58:33 AM -- [INF] -- Output File Path: D:\PersonelSVN\trunk\RssFeedNotifier\IO\Feeds.xml
+9/24/2018 7:03:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 7:03:37 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:03:40 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 7:03:45 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:03:46 PM -- [INF] -- Writing To Xml
+9/24/2018 7:08:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 7:08:37 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:08:37 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 7:08:42 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:08:42 PM -- [INF] -- Writing To Xml
+9/24/2018 7:13:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 7:13:33 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:13:34 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 7:13:39 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:13:39 PM -- [INF] -- Writing To Xml
+9/24/2018 7:18:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 7:18:32 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:18:32 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 7:18:34 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:18:34 PM -- [INF] -- Writing To Xml
+9/24/2018 7:23:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 7:23:35 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:23:35 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 7:23:36 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:23:36 PM -- [INF] -- Writing To Xml
+9/24/2018 7:28:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 7:28:32 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:28:32 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 7:28:33 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:28:33 PM -- [INF] -- Writing To Xml
+9/24/2018 7:33:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 7:33:33 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:33:33 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 7:33:35 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:33:35 PM -- [INF] -- Writing To Xml
+9/24/2018 7:38:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 7:38:34 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:38:34 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 7:38:35 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:38:35 PM -- [INF] -- Writing To Xml
+9/24/2018 7:43:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 7:43:32 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:43:32 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 7:43:36 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:43:36 PM -- [INF] -- Writing To Xml
+9/24/2018 7:48:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 7:48:33 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:48:33 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 7:48:36 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:48:37 PM -- [INF] -- Writing To Xml
+9/24/2018 7:53:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 7:53:35 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:53:35 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 7:53:39 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:53:39 PM -- [INF] -- Writing To Xml
+9/24/2018 7:58:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 7:58:35 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:58:37 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 7:58:41 PM -- [INF] -- Deserializing RSS
+9/24/2018 7:58:41 PM -- [INF] -- Writing To Xml
+9/24/2018 8:03:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 8:03:32 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:03:32 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 8:03:33 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:03:34 PM -- [INF] -- Writing To Xml
+9/24/2018 8:08:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 8:08:33 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:08:33 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 8:08:34 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:08:34 PM -- [INF] -- Writing To Xml
+9/24/2018 8:13:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 8:13:33 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:13:33 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 8:13:34 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:13:34 PM -- [INF] -- Writing To Xml
+9/24/2018 8:18:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 8:18:32 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:18:32 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 8:18:33 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:18:33 PM -- [INF] -- Writing To Xml
+9/24/2018 8:23:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 8:23:35 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:23:35 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 8:23:36 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:23:36 PM -- [INF] -- Writing To Xml
+9/24/2018 8:28:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 8:28:32 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:28:32 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 8:28:36 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:28:36 PM -- [INF] -- Writing To Xml
+9/24/2018 8:33:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 8:33:33 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:33:33 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 8:33:35 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:33:35 PM -- [INF] -- Writing To Xml
+9/24/2018 8:38:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 8:38:32 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:38:32 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 8:38:33 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:38:34 PM -- [INF] -- Writing To Xml
+9/24/2018 8:43:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 8:43:34 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:43:34 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 8:43:38 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:43:38 PM -- [INF] -- Writing To Xml
+9/24/2018 8:48:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 8:48:35 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:48:35 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 8:48:40 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:48:40 PM -- [INF] -- Writing To Xml
+9/24/2018 8:53:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 8:53:34 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:53:34 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 8:53:35 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:53:35 PM -- [INF] -- Writing To Xml
+9/24/2018 8:58:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 8:58:35 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:58:35 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 8:58:40 PM -- [INF] -- Deserializing RSS
+9/24/2018 8:58:40 PM -- [INF] -- Writing To Xml
+9/24/2018 9:03:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 9:03:32 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:03:32 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 9:03:36 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:03:36 PM -- [INF] -- Writing To Xml
+9/24/2018 9:08:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 9:08:36 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:08:36 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 9:08:41 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:08:41 PM -- [INF] -- Writing To Xml
+9/24/2018 9:13:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 9:13:32 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:13:32 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 9:13:34 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:13:34 PM -- [INF] -- Writing To Xml
+9/24/2018 9:18:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 9:18:33 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:18:33 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 9:18:34 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:18:34 PM -- [INF] -- Writing To Xml
+9/24/2018 9:23:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 9:23:34 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:23:34 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 9:23:42 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:23:42 PM -- [INF] -- Writing To Xml
+9/24/2018 9:28:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 9:28:32 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:28:32 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 9:28:33 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:28:33 PM -- [INF] -- Writing To Xml
+9/24/2018 9:33:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 9:33:36 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:33:36 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 9:33:39 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:33:39 PM -- [INF] -- Writing To Xml
+9/24/2018 9:38:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 9:38:38 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:38:38 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 9:38:40 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:38:40 PM -- [INF] -- Writing To Xml
+9/24/2018 9:43:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 9:43:33 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:43:33 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 9:43:33 PM -- [ERROR] -- Could Not Access/Deserialize URL: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query | Exception: The remote server returned an error: (429) Too Many Requests.
+9/24/2018 9:43:33 PM -- [INF] -- Writing To Xml
+9/24/2018 9:48:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 9:48:34 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:48:34 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 9:48:35 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:48:35 PM -- [INF] -- Writing To Xml
+9/24/2018 9:53:31 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 9:53:45 PM -- [ERROR] -- Could Not Access/Deserialize URL: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting | Exception: The remote name could not be resolved: 'www.upwork.com'
+9/24/2018 9:53:45 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 9:54:00 PM -- [ERROR] -- Could Not Access/Deserialize URL: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query | Exception: The remote name could not be resolved: 'www.upwork.com'
+9/24/2018 9:54:00 PM -- [INF] -- Writing To Xml
+9/24/2018 9:56:41 PM -- [DEBUG] -- Service Stopped!
+9/24/2018 9:58:14 PM -- [DEBUG] -- Service Started!
+9/24/2018 9:58:14 PM -- [INF] -- IO Path: D:\PersonelSVN\trunk\RssFeedNotifier\IO
+9/24/2018 9:58:14 PM -- [INF] -- Output File Path: D:\PersonelSVN\trunk\RssFeedNotifier\IO\Feeds.xml
+9/24/2018 9:59:23 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 9:59:25 PM -- [INF] -- Deserializing RSS
+9/24/2018 9:59:34 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 9:59:38 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:00:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:00:53 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:00:53 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:00:54 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:01:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:01:53 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:01:53 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:01:55 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:02:31 PM -- [DEBUG] -- Service Stopped!
+9/24/2018 10:04:33 PM -- [DEBUG] -- Service Started!
+9/24/2018 10:04:33 PM -- [INF] -- IO Path: D:\PersonelSVN\trunk\RssFeedNotifier\IO
+9/24/2018 10:04:33 PM -- [INF] -- Output File Path: D:\PersonelSVN\trunk\RssFeedNotifier\IO\Feeds.xml
+9/24/2018 10:05:37 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:05:43 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:05:47 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:05:53 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:06:49 PM -- [INF] -- Writing To Xml
+9/24/2018 10:06:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:06:55 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:06:55 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:06:57 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:06:57 PM -- [INF] -- Writing To Xml
+9/24/2018 10:07:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:07:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:07:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:07:56 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:07:56 PM -- [INF] -- Writing To Xml
+9/24/2018 10:08:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:08:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:08:51 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:08:53 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:08:53 PM -- [INF] -- Writing To Xml
+9/24/2018 10:09:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:09:49 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:09:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:09:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:09:51 PM -- [INF] -- Writing To Xml
+9/24/2018 10:10:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:10:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:10:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:10:54 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:10:54 PM -- [INF] -- Writing To Xml
+9/24/2018 10:11:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:11:57 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:11:57 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:11:57 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:11:57 PM -- [INF] -- Writing To Xml
+9/24/2018 10:12:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:12:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:12:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:12:54 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:12:55 PM -- [INF] -- Writing To Xml
+9/24/2018 10:13:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:14:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:15:03 PM -- [ERROR] -- Could Not Access/Deserialize URL: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting | Exception: The remote name could not be resolved: 'www.upwork.com'
+9/24/2018 10:15:03 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:15:17 PM -- [ERROR] -- Could Not Access/Deserialize URL: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query | Exception: The remote name could not be resolved: 'www.upwork.com'
+9/24/2018 10:15:17 PM -- [INF] -- Writing To Xml
+9/24/2018 10:15:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:16:03 PM -- [ERROR] -- Could Not Access/Deserialize URL: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting | Exception: The remote name could not be resolved: 'www.upwork.com'
+9/24/2018 10:16:03 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:16:10 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:16:10 PM -- [INF] -- Writing To Xml
+9/24/2018 10:16:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:16:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:16:50 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:16:55 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:16:55 PM -- [INF] -- Writing To Xml
+9/24/2018 10:17:25 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:17:25 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:17:28 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:17:28 PM -- [INF] -- Writing To Xml
+9/24/2018 10:17:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:17:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:17:50 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:17:56 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:17:56 PM -- [INF] -- Writing To Xml
+9/24/2018 10:18:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:18:53 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:18:53 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:18:56 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:18:56 PM -- [INF] -- Writing To Xml
+9/24/2018 10:19:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:19:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:19:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:19:56 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:19:56 PM -- [INF] -- Writing To Xml
+9/24/2018 10:20:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:20:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:20:51 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:20:56 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:20:56 PM -- [INF] -- Writing To Xml
+9/24/2018 10:21:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:21:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:21:50 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:21:50 PM -- [ERROR] -- Could Not Access/Deserialize URL: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query | Exception: The remote server returned an error: (429) Too Many Requests.
+9/24/2018 10:21:50 PM -- [INF] -- Writing To Xml
+9/24/2018 10:22:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:22:55 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:22:55 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:22:56 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:22:56 PM -- [INF] -- Writing To Xml
+9/24/2018 10:23:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:23:49 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:23:50 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:23:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:23:51 PM -- [INF] -- Writing To Xml
+9/24/2018 10:24:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:24:56 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:24:56 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:25:00 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:25:00 PM -- [INF] -- Writing To Xml
+9/24/2018 10:25:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:25:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:25:50 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:25:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:25:51 PM -- [INF] -- Writing To Xml
+9/24/2018 10:26:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:26:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:26:50 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:26:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:26:52 PM -- [INF] -- Writing To Xml
+9/24/2018 10:27:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:27:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:27:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:27:53 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:27:53 PM -- [INF] -- Writing To Xml
+9/24/2018 10:28:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:28:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:28:50 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:28:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:28:50 PM -- [INF] -- Writing To Xml
+9/24/2018 10:29:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:29:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:29:50 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:29:55 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:29:55 PM -- [INF] -- Writing To Xml
+9/24/2018 10:30:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:30:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:30:51 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:30:53 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:30:53 PM -- [INF] -- Writing To Xml
+9/24/2018 10:31:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:31:54 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:31:54 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:31:55 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:31:55 PM -- [INF] -- Writing To Xml
+9/24/2018 10:32:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:32:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:32:51 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:32:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:32:53 PM -- [INF] -- Writing To Xml
+9/24/2018 10:33:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:33:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:33:50 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:33:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:33:52 PM -- [INF] -- Writing To Xml
+9/24/2018 10:34:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:34:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:34:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:34:53 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:34:53 PM -- [INF] -- Writing To Xml
+9/24/2018 10:35:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:35:54 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:35:54 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:35:56 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:35:56 PM -- [INF] -- Writing To Xml
+9/24/2018 10:36:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:36:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:36:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:36:55 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:36:55 PM -- [INF] -- Writing To Xml
+9/24/2018 10:37:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:37:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:37:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:37:54 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:37:54 PM -- [INF] -- Writing To Xml
+9/24/2018 10:38:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:38:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:38:51 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:38:53 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:38:53 PM -- [INF] -- Writing To Xml
+9/24/2018 10:39:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:39:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:39:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:39:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:39:52 PM -- [INF] -- Writing To Xml
+9/24/2018 10:40:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:40:54 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:40:54 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:41:00 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:41:00 PM -- [INF] -- Writing To Xml
+9/24/2018 10:41:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:41:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:41:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:41:59 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:41:59 PM -- [INF] -- Writing To Xml
+9/24/2018 10:42:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:42:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:42:50 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:42:50 PM -- [ERROR] -- Could Not Access/Deserialize URL: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query | Exception: The remote server returned an error: (429) Too Many Requests.
+9/24/2018 10:42:50 PM -- [INF] -- Writing To Xml
+9/24/2018 10:43:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:43:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:43:51 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:43:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:43:52 PM -- [INF] -- Writing To Xml
+9/24/2018 10:44:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:44:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:44:50 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:44:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:44:52 PM -- [INF] -- Writing To Xml
+9/24/2018 10:45:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:45:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:45:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:45:56 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:45:56 PM -- [INF] -- Writing To Xml
+9/24/2018 10:46:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:46:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:46:51 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:46:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:46:52 PM -- [INF] -- Writing To Xml
+9/24/2018 10:47:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:47:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:47:51 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:47:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:47:52 PM -- [INF] -- Writing To Xml
+9/24/2018 10:48:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:49:11 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:49:11 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:49:15 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:49:15 PM -- [INF] -- Writing To Xml
+9/24/2018 10:49:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:49:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:49:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:49:53 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:49:53 PM -- [INF] -- Writing To Xml
+9/24/2018 10:50:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:50:55 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:50:56 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:50:59 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:50:59 PM -- [INF] -- Writing To Xml
+9/24/2018 10:51:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:51:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:51:50 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:51:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:51:52 PM -- [INF] -- Writing To Xml
+9/24/2018 10:52:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:52:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:52:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:52:53 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:52:54 PM -- [INF] -- Writing To Xml
+9/24/2018 10:53:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:53:54 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:53:54 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:53:55 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:53:55 PM -- [INF] -- Writing To Xml
+9/24/2018 10:54:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:54:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:54:50 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:54:58 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:54:58 PM -- [INF] -- Writing To Xml
+9/24/2018 10:55:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:55:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:55:51 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:55:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:55:52 PM -- [INF] -- Writing To Xml
+9/24/2018 10:56:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:56:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:56:50 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:56:53 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:56:53 PM -- [INF] -- Writing To Xml
+9/24/2018 10:57:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:57:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:57:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:57:55 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:57:55 PM -- [INF] -- Writing To Xml
+9/24/2018 10:58:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:58:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:58:51 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:58:53 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:58:53 PM -- [INF] -- Writing To Xml
+9/24/2018 10:59:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 10:59:54 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:59:54 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 10:59:55 PM -- [INF] -- Deserializing RSS
+9/24/2018 10:59:55 PM -- [INF] -- Writing To Xml
+9/24/2018 11:00:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 11:00:56 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:00:56 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 11:00:59 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:01:00 PM -- [INF] -- Writing To Xml
+9/24/2018 11:01:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 11:01:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:01:51 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 11:01:57 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:01:57 PM -- [INF] -- Writing To Xml
+9/24/2018 11:02:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 11:02:54 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:02:54 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 11:02:55 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:02:55 PM -- [INF] -- Writing To Xml
+9/24/2018 11:03:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 11:03:53 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:03:53 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 11:03:59 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:03:59 PM -- [INF] -- Writing To Xml
+9/24/2018 11:04:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 11:04:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:04:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 11:04:56 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:04:56 PM -- [INF] -- Writing To Xml
+9/24/2018 11:05:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 11:05:56 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:05:56 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 11:05:58 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:05:58 PM -- [INF] -- Writing To Xml
+9/24/2018 11:06:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 11:06:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:06:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 11:06:53 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:06:53 PM -- [INF] -- Writing To Xml
+9/24/2018 11:07:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 11:07:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:07:51 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 11:07:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:07:53 PM -- [INF] -- Writing To Xml
+9/24/2018 11:08:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 11:08:52 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:08:52 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 11:08:54 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:08:54 PM -- [INF] -- Writing To Xml
+9/24/2018 11:09:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 11:09:53 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:09:53 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 11:09:54 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:09:54 PM -- [INF] -- Writing To Xml
+9/24/2018 11:10:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 11:10:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:10:51 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 11:10:53 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:10:54 PM -- [INF] -- Writing To Xml
+9/24/2018 11:11:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 11:11:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:11:50 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 11:11:50 PM -- [ERROR] -- Could Not Access/Deserialize URL: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query | Exception: The remote server returned an error: (429) Too Many Requests.
+9/24/2018 11:11:50 PM -- [INF] -- Writing To Xml
+9/24/2018 11:12:49 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=Batch+Scripting
+9/24/2018 11:12:50 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:12:50 PM -- [INF] -- Crawling RSS from: https://www.upwork.com/ab/feed/jobs/rss?q=SQL+Query
+9/24/2018 11:12:51 PM -- [INF] -- Deserializing RSS
+9/24/2018 11:12:51 PM -- [INF] -- Writing To Xml

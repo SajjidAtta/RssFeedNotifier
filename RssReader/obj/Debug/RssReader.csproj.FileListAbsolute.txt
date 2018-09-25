@@ -1,0 +1,11 @@
+D:\PersonelSVN\trunk\RssFeedNotifier\RssReader\bin\Debug\RssReader.exe.config
+D:\PersonelSVN\trunk\RssFeedNotifier\RssReader\bin\Debug\RssReader.exe
+D:\PersonelSVN\trunk\RssFeedNotifier\RssReader\bin\Debug\RssReader.pdb
+D:\PersonelSVN\trunk\RssFeedNotifier\RssReader\obj\Debug\RssReader.csprojResolveAssemblyReference.cache
+D:\PersonelSVN\trunk\RssFeedNotifier\RssReader\obj\Debug\RssReader.exe
+D:\PersonelSVN\trunk\RssFeedNotifier\RssReader\obj\Debug\RssReader.pdb
+D:\PersonelSVN\trunk\RssFeedNotifier\RssReader\bin\Debug\LogWriter.dll
+D:\PersonelSVN\trunk\RssFeedNotifier\RssReader\bin\Debug\LogWriter.pdb
+D:\PersonelSVN\trunk\RssFeedNotifier\RssReader\obj\Debug\RssReader.ProjectInstaller.resources
+D:\PersonelSVN\trunk\RssFeedNotifier\RssReader\obj\Debug\RssReader.RssReader.resources
+D:\PersonelSVN\trunk\RssFeedNotifier\RssReader\obj\Debug\RssReader.csproj.GenerateResource.Cache

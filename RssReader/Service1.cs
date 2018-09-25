@@ -26,7 +26,8 @@ namespace RssReader
         [XmlArrayItem()]
         List<FeedItem> FeedItems;
         System.Timers.Timer servicetimer;
-        string IOPath, logfile, outputxmlpath,url;
+        string IOPath, logfile, outputxmlpath;
+        string [] urls;
 
 
         public RssReader()
@@ -35,7 +36,7 @@ namespace RssReader
       
             InitializeComponent();
             //Service will call workfunction after 5 Minutes.   
-            servicetimer = new System.Timers.Timer(1000 * 60 *5);
+            servicetimer = new System.Timers.Timer(1000 * 60 *1);
             rssXmlDoc = new XmlDocument();
             serializer = new XmlSerializer(typeof(FeedItem));
             FeedItems = new List<FeedItem>();
@@ -52,7 +53,7 @@ namespace RssReader
 
 
             IOPath = ConfigurationManager.AppSettings["IOPath"];
-            url = ConfigurationManager.AppSettings["url"];
+            urls = ConfigurationManager.AppSettings["urls"].Split(',');
             logfile = Path.Combine(IOPath, "RssFeedService.txt");
             outputxmlpath = Path.Combine(IOPath, "Feeds.xml");
 
@@ -64,8 +65,9 @@ namespace RssReader
         private void WorkerFunction(object sender, System.Timers.ElapsedEventArgs e)
         {
             
-            
-            CrawlandStore(url);//Store in FeedItems List
+            foreach(string rsslink in urls)
+            CrawlandStore(rsslink);//Store in FeedItems List
+            FeedItems.Sort();//Sort Feed Items by Time
             WriteFeedsToXml();//Serialize FeedItems List to XML
 
         }
@@ -105,10 +107,11 @@ namespace RssReader
             XmlNodeList ItemList = rssXmlDoc.GetElementsByTagName("item");
             for (int i = 0; i < ItemList.Count; i++)
             {
-                FeedItem temp = ((FeedItem)serializer.Deserialize(new XmlNodeReader(ItemList[i]))).FurnishFeedItem();  
+                    FeedItem temp = ((FeedItem)serializer.Deserialize(new XmlNodeReader(ItemList[i]))).FurnishFeedItem();
                 FeedItems.Add(temp);
 
             }
+
             }
             catch (Exception exp)
             {

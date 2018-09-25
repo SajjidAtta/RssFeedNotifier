@@ -1,6 +1,642 @@
 <?xml version="1.0"?>
 <ArrayOfFeedItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <FeedItem>
+    <title>Call for a RDF/Graphical database developer - Upwork</title>
+    <description>The goal is to export information from the spreadsheet into a graphical database in RDF (linked data). We have some code available for this from a previous project. Simple SPARQL queries should be queryable on the database and content editable on the DB directly (moving away from spreadsheets) and through forms connected to the DB.Budget: $800
+Posted On: September 24, 2018 18:12 UTCCategory: IT &amp;amp; Networking &amp;gt; Database Administration
+Skills:        Data Entry,                     Database Design,                     Database Management,                     Microsoft Excel,                     MySQL Administration,                     MySQL Programming,                     Resource Description Framework (RDF),                     SQL            Country: Franceclick to apply</description>
+    <pubDate>Mon, 24 Sep 2018 17:53:19 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>SQL developer needed for small project in Oracle. - Upwork</title>
+    <description>Deliverables:
+1. Load csv file into database.
+2. Create Proc of a query that extracts db data into format identical to csv
+3. Find the differences between csv and new query.
+4. create output for the differences.
+I&amp;#039;ve already written much of step two, but need help in finalizing it.
+I don&amp;#039;t believe this project should take much time at all as I already have detailed ideas on how to execute.Budget: $70
+Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Scripts &amp;amp; Utilities
+Skills:        Oracle PL/SQL,                     SQL            Country: United Statesclick to apply</description>
+    <pubDate>Mon, 24 Sep 2018 15:40:34 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Looking for someone experienced in node.js testing - Upwork</title>
+    <description>I need someone to write node.js tests for an application of mine. It involves a login, and sql dB querying. I would like the tests production grade quality.
+This job was posted from a mobile device, so please pardon any typos or any missing details.Budget: $40
+Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Web Development
+Skills:        Node.js            Country: Australiaclick to apply</description>
+    <pubDate>Mon, 24 Sep 2018 11:06:50 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Need Help Configuring Command Line For Batch Processing URLs To PDFs Using Open Source wkhtmltopdf - Upwork</title>
+    <description>I&amp;#039;m looking for a knowledgeable person who can help me use the free open-source software called wkhtmltopdf which is a command line HTML to PDF tool. Here is their website https://wkhtmltopdf.org (there&amp;#039;s a link on their homepage which provides the manual for using the software). I know how to install the software on my computer, but I don&amp;#039;t know how to use it for my specific need as I&amp;#039;m not a computer programmer. 
+Essentially, I have a text file on my Windows 10 desktop computer called Websites.txt which has several website URLs (one on each line). The file path on my computer is C:\Windows\Websites.txt. I want to use wkhtmltopdf via command line to read each url in my text file and convert to separate PDF files (one url equals one PDF file). I want the PDF files to be saved in a folder named &amp;amp;quot;URLs to PDFs&amp;amp;quot; with the following folder path C:\Users\micha\Downloads\URLs to PDFs. As for saving each PDF file, I want to save each file using its corresponding URL. For example, the url https://www.google.com would be saved as https___www.google.com.pdf thus replacing the &amp;amp;quot;://&amp;amp;quot; with an &amp;amp;quot;___&amp;amp;quot;. If this is not possible then save as close as possible to the corresponding URL so I can recognize which PDF file belongs to which website URL.&amp;nbsp;&amp;nbsp;
+As for the other settings. I want the full page of each URL to be captured to PDF. I want the PDF file to be searchable. I want everything to work as fast as possible. Speed is important to me because I plan to eventually convert thousands of URLs to PDFs using this tool. As for quality, I want the PDFs to look as best as possible to their corresponding URL in terms of page structure, but I don&amp;#039;t need the graphics to retain high resolution. Graphics/images looking a little pixelated is fine. As long as I can look at each PDF file and read/search through the text and recognize all the images/background graphics I&amp;#039;m satisfied. This means I want the settings to maximize saving space for each PDF file while retaining the structure of each URL website (this should help lower bandwidth use and also help speed up everything I think). I&amp;#039;m not sure what those ideal settings are which is why I want you to use the test sample of 100 website URLs I&amp;#039;ve provided in this project to play around with the different settings to come up with the best settings for my needs (the 100 URL samples are included in this project in the Websites.txt file). Some of the URLs I&amp;#039;ve provided in the test sample do not work, but I&amp;#039;ve done this on purpose because I want to make sure wkhtmltopdf can handle all sorts of different scenarios so that later when I process thousands of URLs I know what to expect. Wkhtmltopdf needs to be able to automate everything including skipping over bad/not working URLs without popups and etc... I don&amp;#039;t want to have to sit by my computer to click on popups just to complete this project. 
+I need you to download the free software on your computer to figure out all the best settings for my needs given the information I&amp;#039;ve provided here then write the proper command line so I can just copy and paste it on my computer and follow your instructions in making wkhtmltopdf work for my needs. 
+I want to use wkhtmltopdf to complete this project because it&amp;#039;s the best software I&amp;#039;ve discovered during my research, and I&amp;#039;m pretty sure it&amp;#039;s better than anything an individual programmer on Upwork can create for my budget. So I&amp;#039;m not interested in some custom made software program. I simply need help configuring my command line with wkhtmltopdf. 
+Once you&amp;#039;ve played around with the different settings and have successful batch processed the test sample file I&amp;#039;ve provided in this project, simply zip the PDF files in a folder and send them to me so I can check the quality and make sure I&amp;#039;m satisfied with your results before accepting your command line code. Also let me know about your experience using the software and how fast it completed the test sample of the 100 URLs I provided. I&amp;#039;ll pay you $20 for your work with helping me configure the proper command line for my project needs. An experienced programmer with command line should have no problem doing this in a little time. I&amp;#039;m in no hurry so this project can be completed within 2-5 days or sooner. Thanks for your help, and I&amp;#039;m looking forward to working with you.Budget: $20
+Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Scripts &amp;amp; Utilities
+Skills:        HTML,                     JavaScript,                     PHP,                     Python,                     Web Scraping            Country: United Statesclick to apply</description>
+    <pubDate>Mon, 24 Sep 2018 04:24:25 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Interactive Floor Plan Builder - Upwork</title>
+    <description>Need to develop interactive floor plan builder for exhibition. Should have functionality to add, merge, spilt, assign stand to exhibitors, change text etc. with below specifications:
+- Shoud be SVG Based
+- All SVG Shapes should be saved and retrived from database as seperate recored e.g if there are 10 stands on the floor plan there should be 10 records in the database.
+- Shape Dimension should be stored in database for example if a particular shape is Square then it length and breadth should be stored in database. This means that the dimension that is stored in database according to that the shape should be visible in Front. If shape dimension is edited then its value must be updated in database.
+- Merge/Split functionality of shapes. Its co-ordinates must be updated in database accordingly.
+- Search functionality (Text written over shape, Shape number written over shape)
+- Print functionality (By Text written over shape, By shape number written over shape, By some shapes that I want to print, By Shape dimension given on shape)
+- Zoom out, Zoom in, Fit functionality.
+- View functionality (just shape, Just by Text written over shape, Shape number written over shape, in 3D, Symbols given on floor plan like icons).
+- Reports to generated from database in CSV.
+See attached image for sample floor plan. Feel free to ask any query, Freelancers with previous experience in floor plan projects will be preferred, please send your previous work details, links etc. in proposal.Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Web Development
+Skills:        ASP.NET,                     C#,                     CSS,                     CSS3,                     HTML,                     HTML5,                     JavaScript,                     jQuery,                     Microsoft SQL Server Programming,                     SQL,                     SVG,                     Web Design,                     Website Development            Country: British Indian Ocean Territoryclick to apply</description>
+    <pubDate>Sun, 23 Sep 2018 12:14:10 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Application configure and sql help - Upwork</title>
+    <description>We need someone to make some changes in a software application for example we want to add fields like:
+We take the client method of contact:
+Work phone, mobile phone, email, etc. and we would like to add
+&amp;#039;preferred method of contact&amp;#039;.&amp;nbsp;&amp;nbsp;A new field on the screen that will be saved to their record. 
+I have another one but i have to get the exact spec during week but that would be conditional, if the answer is A then present another screen etc.
+else if the answer was B present a different screen. The application has a good user community forum u can check for how they do these things. Basically, they use forms and the trick is to get a User table connected to it. THey are using a type of SQL based query.Posted On: September 24, 2018 18:12 UTCCategory: IT &amp;amp; Networking &amp;gt; Other - IT &amp;amp; Networking
+Country: United Statesclick to apply</description>
+    <pubDate>Sun, 23 Sep 2018 01:36:09 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Developer looking for customization for existing app (PhoneGap, AdobeCordova) - Upwork</title>
+    <description>We have an existing app that was developed with PhoneGap (AdobeCordova). This app is used by different customers. The database is separate per customer and location. Communication or access is via a web service. For example, https://tld.com/app/customer/webservice. We would like to extend the app to include PushNotification for iOS and Android. We want to use a separate web service for each customer. Who can help us, what is needed on existing files? We provide a web service which is available e.g. in a table holding messages per user, the function looks e.g. like this...
+public function getUserNotification ($ org)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;{â€‹
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;$ sql = &amp;amp;quot;SELECT * from WebService_Notification WHERE OrgUnitID =&amp;amp;quot;. $ org. &amp;amp;quot;AND Received is null ORDER BY Date Desc&amp;amp;quot;;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;return $ this-&amp;amp;gt; query ($ sql);
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;}â€‹Budget: $300
+Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Mobile Development    Platforms:Android,         iOS            Devices:Phone            
+Country: Germanyclick to apply</description>
+    <pubDate>Sat, 22 Sep 2018 13:33:31 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Need CodeIgniter Developers for Custom Ticket Tracker Website - Upwork</title>
+    <description>OBJECTIVE: Code a &amp;amp;quot;ticket&amp;amp;quot; or &amp;amp;quot;bug&amp;amp;quot; tracker site.
+LANGUAGES/FRAMEWORKS:&amp;nbsp;&amp;nbsp;PHP/mySQL/CodeIgniter
+TOOLS YOU WILL USE:&amp;nbsp;&amp;nbsp;GIT / OpenVPN
+Our goal is to create a custom ticketing tracker, similar to Redmine (https://www.redmine.org/), for our secure server system. Webpages will be created with CodeIgniter, and developers will use PHP to query some SQL databases and display the information to the users. Any applicant will have to be able to communicate with Skype and log into our secure system. Additionally, all work will be monitored with Upwork screen recording, and progress will be tracked with another issue tracking service. We are looking for 2 or 3 developers to work on this project.Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Web Development
+Skills:        CodeIgniter,                     Git,                     PHP,                     Redmine,                     SQL,                     Website Development            Location Requirement: Only freelancers located in the United States may apply.
+Country: United Statesclick to apply</description>
+    <pubDate>Sat, 22 Sep 2018 01:01:47 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Simple Inkscape Extension - Upwork</title>
+    <description>Hi,
+I need a very simple Inkscape extension written.&amp;nbsp;&amp;nbsp;I process large batches of images with PHP scripts through the Inkscape command line tool.&amp;nbsp;&amp;nbsp;Unfortunately, the command line tool does not have all of the functionality I require.&amp;nbsp;&amp;nbsp;I have read in forums that I can write an Inkscape extension and will have access to all Inkscape functionality.&amp;nbsp;&amp;nbsp;This is great because I can run these extensions via the command line tool from my existing PHP scripts.&amp;nbsp;&amp;nbsp;This provides an easy workaround for me.
+Unfortunately, I&amp;#039;m not a Python programmer.&amp;nbsp;&amp;nbsp;I think if you know Python, you could probably research for an hour on how to complete this task, and have it completed within 2 hours.&amp;nbsp;&amp;nbsp;Heck, who knows... Maybe you even have experience writing Inkscape extensions...
+The required extension functionality:
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-select &amp;amp;quot;Relative to: Selection&amp;amp;quot; from the Align and Distribute panel
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-name the extension &amp;amp;quot;Relative to Selection&amp;amp;quot;, place extension in a folder named &amp;amp;quot;HTA&amp;amp;quot; on Inkscape Extension menu.
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-make a copy of this 1st extension, and make the selection &amp;amp;quot;Relative to: Page&amp;amp;quot; from the Align and Distribute panel
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;-name the extension &amp;amp;quot;Relative to Page&amp;amp;quot;, place extension in a folder named &amp;amp;quot;HTA&amp;amp;quot; on Inkscape Extension menu.
+Inkscape extension docs:
+https://inkscape.org/en/develop/extensions/
+See the attached screenshots.
+Message with questions.
+Thank You,
+WyattBudget: $100
+Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Other - Software Development
+Skills:        Inkscape,                     Python            Country: United Statesclick to apply</description>
+    <pubDate>Fri, 21 Sep 2018 18:16:39 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Technical Writer needed to create tech manuals - Upwork</title>
+    <description>There are two deliverables for this project:
+1. Xevo VOD User Guide:&amp;nbsp;&amp;nbsp;This is a user guide that provides basic usability instructions.
+2. Installation and Support Manual:&amp;nbsp;&amp;nbsp;This manual provides technical details related to the installation, configuration, and other technical aspects of the Xevo VOD product.
+*&amp;nbsp;&amp;nbsp;I&amp;#039;m looking for a freelancer with a solid understanding of:
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ Linux/Unix
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ Strong understanding of relational database, networking, server set-up, and admin.
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ Configuration and experience with virtual environments (VMware, Hyper-V, VirtualBox).
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;+ Experience modifying and creating SQL queries.
+The freelancer will have to create a user guide and tech manual from a collection of misc docs and interviews with ProdOps team members.Posted On: September 24, 2018 18:12 UTCCategory: IT &amp;amp; Networking &amp;gt; Network &amp;amp; System Administration
+Skills:        CentOS,                     Linux System Administration,                     Network Administration,                     System Administration            Location Requirement: Only freelancers located in the United States may apply.
+Country: United Statesclick to apply</description>
+    <pubDate>Fri, 21 Sep 2018 17:35:45 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>SQL table copy - Upwork</title>
+    <description>I have minor SQL tasks, I need to have an sql table copied over duplicate SQL table, while not over writing parts of it,&amp;nbsp;&amp;nbsp;
+I also need some queries written to help us del with our product labels to accommodate prop 65.
+I don&amp;#039;t&amp;#039; expect this to be a large project but I will require assistance.Posted On: September 24, 2018 18:12 UTCCategory: IT &amp;amp; Networking &amp;gt; Database Administration
+Skills:        SAP Crystal Reports,                     Database Administration,                     Database Design,                     MySQL Administration,                     MySQL Programming,                     SQL            Country: Canadaclick to apply</description>
+    <pubDate>Fri, 21 Sep 2018 17:29:11 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>(JS/React) SVG exporter for Illustrator that lives in the browser - Upwork</title>
+    <description>I need help to build an awesome export script for Illustrator. Mission is to generate optimized and clean SVG with one click, and show it as a gallery in HTML. For Mac.
+1.) Saves out all artboards as SVGs with names. The extension needs one button &amp;amp;quot;Export&amp;amp;quot;.
+2.) Batch renames the filenames (Illustrator adds an annoying prefix)
+3.) From there the browser opens with a preloader. We optimize SVG code using SVGOMG service.
+https://jakearchibald.github.io/svgomg/
+https://github.com/svg/svgo/blob/master/docs/how-it-works/en.md
+4.) In the same browser window and when done processing, we show a gallery layout in HTML of all the exported SVGs, with buttons to download/show code.
+5.) The gallery will have a button to download the whole set.Budget: $300
+Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Desktop Software Development
+Skills:        CSS,                     HTML5,                     JavaScript            Country: Swedenclick to apply</description>
+    <pubDate>Fri, 21 Sep 2018 12:33:27 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Table Tracker, C# or Visual Basic with MS SQL - Upwork</title>
+    <description>Need to develop a Win 7 based desktop app that can provide a nice GUI for user and manipulate exsisting MS SQL tables, queries and reports. This will be using either C# or Visual basic and good skills in MS SQL.Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Desktop Software Development
+Skills:        .NET Framework,                     C#,                     Windows App Development            Country: United Statesclick to apply</description>
+    <pubDate>Thu, 20 Sep 2018 15:07:47 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Murex Application Developer (Banking Industry) - Upwork</title>
+    <description>Responsible for Design, installation, implementation, application management and support of new Treasury solution for Murex.
+&amp;bull;	Knowledge in Murex V3.1 module, experience in Murex V3.1 support &amp;amp;amp; development. 
+&amp;bull;	Provide technical support, implementation &amp;amp;amp; Infrastructure support
+&amp;bull;	Design, develop and maintain configuration of application systems and services involving reports and interfaces
+&amp;bull;	Analyses and design reports, interfaces and templates based on user&amp;rsquo;s requirement and conversion of existing reports/interface.
+&amp;bull;	Investigate &amp;amp;amp; resolve application supports queries or problem in a timely and effective matter.
+&amp;bull;	Familiar in dynamic table, data mart, horizontal field, feeder, MXML workflow.
+&amp;bull;	Support EOD batch run
+&amp;bull;	Minimum 4 years working experience as a programmer/analyst that covers system analysis, design, programming and software testing. 
+&amp;bull;	Ability to do programming in Visual Basic, Java, Crystal Report &amp;amp;amp; SQL (ie ability to design/write and troubleshoot), UNIX Scripting.
+&amp;bull;	Support users in any of testing (i.e. guidance info during SIT,UAT, etc.)
+Immediate joiners and locally available in Kuala Lumpur, MalaysiaBudget: $5
+Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Mobile Development    Devices:Phone            
+Country: Malaysiaclick to apply</description>
+    <pubDate>Thu, 20 Sep 2018 15:00:24 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Murex Application Developer (Banking Industry) - Upwork</title>
+    <description>Responsible for Design, installation, implementation, application management and support of new Treasury solution for Murex.
+&amp;bull;	Knowledge in Murex V3.1 module, experience in Murex V3.1 support &amp;amp;amp; development. 
+&amp;bull;	Provide technical support, implementation &amp;amp;amp; Infrastructure support
+&amp;bull;	Design, develop and maintain configuration of application systems and services involving reports and interfaces
+&amp;bull;	Analyses and design reports, interfaces and templates based on user&amp;rsquo;s requirement and conversion of existing reports/interface.
+&amp;bull;	Investigate &amp;amp;amp; resolve application supports queries or problem in a timely and effective matter.
+&amp;bull;	Familiar in dynamic table, data mart, horizontal field, feeder, MXML workflow.
+&amp;bull;	Support EOD batch run
+&amp;bull;	Minimum 4 years working experience as a programmer/analyst that covers system analysis, design, programming and software testing. 
+&amp;bull;	Ability to do programming in Visual Basic, Java, Crystal Report &amp;amp;amp; SQL (ie ability to design/write and troubleshoot), UNIX Scripting.
+&amp;bull;	Support users in any of testing (i.e. guidance info during SIT,UAT, etc.)
+Immediate joiners and locally available in Kuala Lumpur, MalaysiaBudget: $5
+Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Mobile Development    Devices:Phone            
+Country: Malaysiaclick to apply</description>
+    <pubDate>Thu, 20 Sep 2018 15:00:24 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>SQL Expert needed to create a PAR Loan calculation and Update queries - Upwork</title>
+    <description>What you would do:
+1. Write a query to calculate PAR Loans.
+2. Review and Update a number of SQL Queries
+I&amp;#039;m looking for a freelancer with a good understanding of loan system with previous experience working on a fin-tech project or finance or loans calculations. You can use SQL queries to write simple and complex calculations.Budget: $15
+Posted On: September 24, 2018 18:12 UTCCategory: IT &amp;amp; Networking &amp;gt; Database Administration
+Skills:        Database Administration,                     Database Management,                     MySQL Programming,                     SQL            Country: Nigeriaclick to apply</description>
+    <pubDate>Thu, 20 Sep 2018 13:39:11 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Looking for an experience PL/SQL developer to write queries and reports - Upwork</title>
+    <description>Looking for an experience PL/SQL, Oracle developer to help with the writing of queries and reports.Posted On: September 24, 2018 18:12 UTCCategory: Data Science &amp;amp; Analytics &amp;gt; Machine Learning
+Skills:        SQL Programming            Country: United Statesclick to apply</description>
+    <pubDate>Thu, 20 Sep 2018 08:56:33 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Fix boostrap mobile issues using e107, design changes, and generate sql query - Upwork</title>
+    <description>Fix boostrap mobile issues using e107 and generate sql query that counts how many new users per month since the beginning of time.&amp;nbsp;&amp;nbsp;I would also like the download page to be redesigned while.keeping it mobile friendly.&amp;nbsp;&amp;nbsp;Also, I need someone to convert the upgrade page to css and not the flat image that it is now.Budget: $150
+Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Web Development
+Skills:        Bootstrap            Country: United Statesclick to apply</description>
+    <pubDate>Wed, 19 Sep 2018 16:19:02 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Lead Data Engineer - Upwork</title>
+    <description>Position Description
+Works independently under limited supervision and applies knowledge of subject matter. Possess enough knowledge and skills to effectively deal with issues, challenges within field of specialization to develop simple Data solutions. Second level professional with direct impact on results and outcome.
+Required Qualifications to be successful in this Role
+&amp;bull;	Minimum 7+ years hands on experience with Hadoop and other Big data Technologies (such as Hive/Spark/Hadoop/Kafka/HBase etc )&amp;nbsp;&amp;nbsp;with 2 Big Data implementations.
+&amp;bull;	Proficient in shell script and programming languages - Python and Scala
+&amp;bull;	Experience in ETL process from legacy database to GRAPH and/or SQL database
+&amp;bull;	Should have working experience with - cloud DB (Redshift/Google BQ) and Unstructured DB (Elasticsearch).
+&amp;bull;	Experience with ML tools like tensorflow, scikit etc.
+&amp;bull;	Proficient in data structures &amp;amp;amp; algorithms and logical Database Modelling as per the business requirement. 
+&amp;bull;	Good to have domain knowledge (Marketing Database).
+Skills
+&amp;bull;	ETL
+&amp;bull;	Machine Learning
+&amp;bull;	Analytical Thinking
+&amp;bull;	Excellent Communication (Oral/Written) 
+&amp;bull;	Multi-taskerPosted On: September 24, 2018 18:12 UTCCategory: Data Science &amp;amp; Analytics &amp;gt; Data Mining &amp;amp; Management
+Skills:        Amazon Redshift,                     Bash Shell Scripting,                     Big Data,                     BigQuery,                     Data Analytics,                     Data Mining,                     Data Science,                     Data Scraping,                     Hadoop,                     Machine Learning,                     Python            Country: Indiaclick to apply</description>
+    <pubDate>Wed, 19 Sep 2018 11:07:16 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Lead Data Engineer - Upwork</title>
+    <description>Position Description
+Works independently under limited supervision and applies knowledge of subject matter. Possess enough knowledge and skills to effectively deal with issues, challenges within field of specialization to develop simple Data solutions. Second level professional with direct impact on results and outcome.
+Required Qualifications to be successful in this Role
+&amp;bull;	Minimum 7+ years hands on experience with Hadoop and other Big data Technologies (such 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;as Hive/Spark/Hadoop/Kafka/HBase etc) with 2 Big Data implementations.
+&amp;bull;	Proficient in shell script and programming languages - Python and Scala
+&amp;bull;	Experience in ETL process from legacy database to GRAPH and/or SQL database
+&amp;bull;	Should have working experience with - cloud DB(Redshift/Google BQ) and Unstructured DB 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;(Elasticsearch).
+&amp;bull;	Experience with ML tools like tensorflow, scikit etc.
+&amp;bull;	Proficient in data structures &amp;amp;amp; algorithms and logical Database Modelling as per the business 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;requirement. 
+&amp;bull;	Good to have domain knowledge (Marketing Database).
+Skills
+&amp;bull;	ETL
+&amp;bull;	Machine Learning
+&amp;bull;	Analytical Thinking
+&amp;bull;	Excellent Communication (Oral/Written) 
+&amp;bull;	Multi-taskerPosted On: September 24, 2018 18:12 UTCCategory: Data Science &amp;amp; Analytics &amp;gt; Data Mining &amp;amp; Management
+Skills:        Amazon Redshift,                     Big Data,                     BigQuery,                     Data Analytics,                     Data Mining,                     Data Science,                     Python            Country: Indiaclick to apply</description>
+    <pubDate>Wed, 19 Sep 2018 09:00:24 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Full Stack Laravel Developer wanted for a &amp;#039;Booking&amp;#039; Application - Upwork</title>
+    <description>Are you an highly experienced, ambitious Fullstack developer looking for an exciting project that pays?
+We are looking for a motivated PHP / Laravel developer to come join our agile team of professionals.
+If you are passionate about technology, have the mindset to digest a project that is in progress, pick up the existing pieces and extend then we are looking for you!
+PHP / Laravel developer duties and responsibilities
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Help finish developing cutting edge web-based PHP applications.
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Collaborate with the User Experience (UX) team
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Ensure HTML, CSS, and shared JavaScript is valid and consistent across applications
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Prepare and maintain all applications utilizing standard development tools
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Utilize backend data services and contribute to increase existing data services API
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Lead the entire web application development life cycle right from concept stage to delivery and post launch support
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Convey effectively with all task progress, evaluations, suggestions, schedules along with technical and process issues
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Document the development process, architecture, and standard components
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Coordinate with co-developers and keeps project manager well informed of the status of development effort and serves as liaison between development staff and project manager
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Keep abreast of new trends and best practices in web development
+PHP / Laravel developer requirements and qualifications
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Previous working experience as a PHP / Laravel developer 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;BS/MS degree in Computer Science, Engineering, MIS or similar relevant field (not required)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;In depth knowledge of object-oriented PHP and Laravel 5 PHP Framework
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Hands on experience with SQL schema design, SOLID principles, REST API design 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Software testing 
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;MySQL profiling and query optimization
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Creative and efficient problem solver
+This application plans to incorporate functionality that satisfies the following topics &amp;#039;directory&amp;#039;,&amp;#039;chat&amp;#039;,&amp;#039;Booking&amp;#039;, &amp;#039;time management&amp;#039;,&amp;nbsp;&amp;nbsp;and &amp;#039;payment flow&amp;#039;Budget: $4,000
+Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Web Development
+Skills:        Laravel Framework,                     PHP            Country: United Statesclick to apply</description>
+    <pubDate>Wed, 19 Sep 2018 01:36:45 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Batch script for MULTIPAR parity files creation - Upwork</title>
+    <description>3 batch .bat files containing automation script must be done. The goal is to recursively create parity files on all children folders using a program called multipar. Script must be done in batch .bat files runnable unantended on a windows machine. See complete requirement in attached file.Budget: $60
+Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Scripts &amp;amp; Utilities
+Skills:        Bash Shell Scripting,                     Scripting            Country: Canadaclick to apply</description>
+    <pubDate>Tue, 18 Sep 2018 19:56:03 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Developers needed for a Project - iOS Developer, Android Developer, PHP Laravel Developer, React JS - Upwork</title>
+    <description>Looking for Freelancers who have been working with Startups/New Product development
+The team is full of young and dynamic processionals who are passionate about their work and project.&amp;nbsp;&amp;nbsp;&amp;nbsp;
+Android Developers:
+Strong knowledge of Android SDK, different versions of Android, and how to deal with different 
+screensizes. Understanding of Googles Android design principles and interface guidelines.
+Familiarity with RESTful APIs to connect Android applications to back-end services.&amp;nbsp;&amp;nbsp;
+Strong knowledge of Android UI design principles, patterns, and best practices. 
+Experience with offline storage, th reading, and performance tuning.&amp;nbsp;&amp;nbsp;
+Ability to design applications around natural user interfaces, such as touch. 
+Familiarity with the use of additional sensors, such as GPS. 
+Knowledge of the open-source Android ecosystem and the libraries available for common tasks.
+Ability to understand business requirements and translate them into technical requirements.&amp;nbsp;&amp;nbsp;
+iOS Developers:
+Proficient with Objective-C or Swift.
+Experience with iOS frameworks such as Core Data, Core Animation, etc.
+Experience with offline storage, threading, and performance tuning.
+Familiarity with RESTful APIs to connect iOS applications to back-end services.
+Knowledge of other web technologies and UI/UX standards.
+Understanding of Apple&amp;rsquo;s design principles and interface guidelines.
+Knowledge of low-level C-based libraries is preferred.
+Experience with performance and memory tuning with tools.
+Familiarity with cloud message APIs and push notifications.
+PHP Laravel:
+Strong knowledge of PHP Laravel.
+Understanding of MVC design patterns.
+Knowledge of object-oriented PHP programming. 
+Working knowledge of MySQL and other SQL/NoSQL databases and their declarative query languages. 
+Database optimization and Designing.
+Proficient understanding of code versioning tools, such as Git. 
+Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3. React
+Extensive knowledge and experience with RESTFul API&amp;#039;s. Optimized for App as well as web.
+App related service managing
+Automated functional testing with PHPUnit or similar
+Knowledge of&amp;nbsp;&amp;nbsp;enterprise search platforms (e.g. Solr, Lucene, Google Search Appliance, Microsoft Fast, Microsoft SharePoint, Endeca, or Elasticsearch).
+Build reusable code and libraries for future use &amp;amp;amp; Optimize application for maximum speed and scalability. 
+Build innovative, state-of-the-art applications and collaborate with the User Experience (UX) team
+experience in common third-party APIs (Google, Facebook, chat etc).
+React.Js
+Requirement analysis, coding, design, implementation, testing, problem analysis and resolution, 
+and technical documentation.
+Identify inconsistencies in architecture and determine simpler and optimal programming solutions.
+Able to create a design for small components and participates and contributes to research projects.
+Creatively define load tests, troubleshoot performance and build scalable solutions, able to
+suggest DB structure normalization changes.
+Understand technical requirements and how they relate and familiarity in general performance
+practices like caching, query optimization, memory utilization and clean-up, etc.
+Familiarity with RESTful APIs development.
+Expertise with code testing best practices, including unit and integration testing to ensure quality 
+of code.
+Familiarity with code versioning tools such as Git lib and TFS and Agile/SCRUM Development methodologies. 
+Familiarity on agile methodology and proficiency of participating in the stand up and handling tasks workflow.
+Good experience in JavaScript front-end of React.js, react-native.
+Experience developing Adaptive or Responsive websites using UI technologies like HTML5, CSS3 
+and jQuery.
+Ensure the technical feasibility of UI/UX designs.
+Optimize application for maximum speed and scalability.
+Assure that all user input is validated before submitting to back-end.
+Integration with backend API.
+Follow the best practices of client side MVC.
+Strong proficiency with JavaScript, TypeScript.
+Knowledge of Node.js and frameworks available for it such as, ReactJS.Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Mobile Development
+Skills:        Objective-C,                     React Native,                     Swift            Country: Indiaclick to apply</description>
+    <pubDate>Tue, 18 Sep 2018 17:21:35 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Looking for a person who can write SQL Queries.  A plus for Google Apps Script/Google BigQuery. - Upwork</title>
+    <description>I want sql queries to be written to work with Google BigQuery.Posted On: September 24, 2018 18:12 UTCCategory: Data Science &amp;amp; Analytics &amp;gt; Data Mining &amp;amp; Management
+Skills:        Google APIs,                     Google Apps Script,                     SQLite Programming            Location Requirement: Only freelancers located in the United States may apply.
+Country: United Statesclick to apply</description>
+    <pubDate>Tue, 18 Sep 2018 03:14:31 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Write and Implement Pervasive SQL query from Guardian Software Database - Upwork</title>
+    <description>Looking for an experienced developer in databases, data analysis, and business intelligence.
+Our ERP system, Guardian (guardiansoft.com) uses PSQL for their database solution.
+They capture all of the data we need but they don&amp;#039;t have a simple report we need built into the system.
+We need someone to create the SQL call, implement it into our system and supply instructions and workflow to print the report.&amp;nbsp;&amp;nbsp;
+Attached is an example of the report we would like created from the database.
+A description of the attached is below:
+Attached is a report that would give us a snapshot overview of our employees output through the day. Most of these metrics are already existing in the system, the new one is &amp;ldquo;Efficient Minutes&amp;rdquo;. This metric can be calculated by:
+If Guardian stores Labor Efficiency as a percentage (i.e. 60% = .600):
+(Efficient Minutes) = (Direct Run Hours)*(Labor Efficiency)*60
+If Guardian stores Labor Efficiency as a number (i.e. 60% = 60.0):
+(Efficient Minutes) = (Direct Run Hours)*(Labor Efficiency)*60/100
+A few additional items:
+1)	I would like to see this report segregated by department, but I do not want to see it segregated by individual employee. Regardless of how many days the report covers, I would like to see each employee listed multiple times in the same report, one listing for each day. So the report would be segregated by department, then sorted by employee first, labor date second. If we had a report printed for 5 employees for the week, there would be 25 lines of data, each employee listed 5 times.
+2)	I do not want to see totals at the bottom, I want to see averages for the department.
+3)	I want the spacing between rows to be larger than it is on the current reports. The spacing on the sample is far easier to read than the reports we are printing off of Guardian right now.Posted On: September 24, 2018 18:12 UTCCategory: Data Science &amp;amp; Analytics &amp;gt; Data Extraction / ETL
+Skills:        Data Analytics,                     Data Extraction,                     Data Science,                     SQL            Location Requirement: Only freelancers located in the United States may apply.
+Country: United Statesclick to apply</description>
+    <pubDate>Mon, 17 Sep 2018 18:49:48 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>PowerBI report building, consulting, and training - Upwork</title>
+    <description>Hi there, 
+We&amp;#039;re a medium sized organization and have been on Dynamics NAV (desktop-2015) for about 2 years now. We are looking to improve our reporting processes from manual excel reporting and import from our data sources. This will be a combination of traditional and standard financial reports (such as P&amp;amp;amp;L) as well as a few custom dashboards for our unique business and industry. 
+Our reports will need to combine three datawarehouses:
+Dynamics NAV -2015 Desktop version, however cloud hosted with SAASPLAZA with a dedicated SQL server (VM). -For Revenue and A/R
+ADP Workforce now for Labor cost
+Quickbooks Enterprise Desktop - For Accounts Payable. 
+We&amp;#039;d like to work with our technology and finance departments to get this project going. We are leaning toward PowerBI while still a newer platform to keep our vendors as close to the Microsoft Ecosystem as possible. The only other vendor we are considering at this time is Tableau. Our Finance Director looking to complete this project is also leaning towards PowerBI because they are already familar with advanced Queries using Excel.Posted On: September 24, 2018 18:12 UTCCategory: Design &amp;amp; Creative &amp;gt; Other - Design &amp;amp; Creative
+Skills:        Business Intelligence,                     Microsoft Business Intelligence Studio,                     Microsoft Excel PowerPivot            Location Requirement: Only freelancers located in the United States may apply.
+Country: United Statesclick to apply</description>
+    <pubDate>Mon, 17 Sep 2018 17:47:33 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>.NET Developer - Upwork</title>
+    <description>Required Skills &amp;amp;amp; Experience
+&amp;bull;	SQL
+&amp;bull;	T-SQL
+&amp;bull;	.NET (C#)
+&amp;bull;	PowerShell
+Responsibilities
+&amp;bull;	Supporting a vendor application by creating, maintaining, and updating scheduled tasks, Windows Services, SQL scripts, PowerShell scripts, batch files, C# programs, and VB programs.
+&amp;bull;	Utilize Windows Server 2008 R2 to check error logs and Event viewer, as well as install service packs and patches.
+&amp;bull;	Make use of SQL Server Management Studio to view database tables, schedule SQL jobs, create SQL code files, and track database errors.
+&amp;bull;	Create, maintain, and update custom reports via the use of SQL scripts, PowerShell scripts, and C# code. These reports are populated with new data every day and dispersed via EBO, email, or FTP.Posted On: September 24, 2018 18:12 UTCCategory: IT &amp;amp; Networking &amp;gt; Other - IT &amp;amp; Networking
+Skills:        C#,                     Windows PowerShell,                     SQL,                     Transact-SQL            Location Requirement: Only freelancers located in the United States may apply.
+Country: United Statesclick to apply</description>
+    <pubDate>Mon, 17 Sep 2018 16:29:14 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Build a Web App - Data Retrieval - Upwork</title>
+    <description>I need a webapp that provides a user with some options detailing data to be queried.&amp;nbsp;&amp;nbsp;When the query is completed, it runs a query on an AWS RDS database and loads the results as a CSV.&amp;nbsp;&amp;nbsp;An example would be:
+User wants a list of all records of people over the age of 65 and who participated in event A, but not event B.&amp;nbsp;&amp;nbsp;Currently, we have a database schema that is adequate for the queries that will be run, however we are open to the idea of modification in order to improve performance, but not as a part of this scope.&amp;nbsp;&amp;nbsp;The webapp will be deployed on AWS.
+Right now, this project is in proof-of-concept stage, so aesthetics are not important (speed of development/deployment is VERY important!), however, once the POC is complete, we will enter into a ~3-month long development cycle for an initial launch where we will develop more in-depth use cases.
+With your proposal, please list any examples of data-intensive apps deployed on AWS that you have worked with.&amp;nbsp;&amp;nbsp;Additionally, please provide your preferred tech stack for developing this POC rapidly.Budget: $750
+Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Web Development
+Skills:        CSS,                     Django,                     Flask,                     HTML5,                     JavaScript,                     Node.js,                     PHP,                     PostgreSQL Programming,                     SQL,                     Web Design,                     Website Development            Country: United Statesclick to apply</description>
+    <pubDate>Sat, 15 Sep 2018 23:09:14 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Batch program for Whitepages API - Upwork</title>
+    <description>I need a simple windows based program which will loop through a list with names/city/state and for each entry make a REST API call to the whitepages API.&amp;nbsp;&amp;nbsp;The program should take the JSON based responses and format them to return address for each input entry and then export the list of responses to a spreadsheet.
+This can be done either with excel, VB, or any other technology which makes sense.&amp;nbsp;&amp;nbsp;I&amp;#039;m looking for something very simple to perform only this one function.
+Here&amp;#039;s a link to a thread on excel forum which contains an example spreadsheet that sort of does what is needed.&amp;nbsp;&amp;nbsp;I&amp;#039;m looking for something slightly more reliable and possibly faster.
+http://www.excelforum.com/excel-programming-vba-macros/788072-loop-to-do-whitepages-api-calls.html
+I also have a windows program that I can provide which provides an example of what is needed but no longer works perfectly after whitepages has changed the order of their response fields.Budget: $500
+Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Scripts &amp;amp; Utilities
+Country: United Statesclick to apply</description>
+    <pubDate>Sat, 15 Sep 2018 00:54:43 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Database Administration - Upwork</title>
+    <description>We&amp;#039;re looking for a Microsoft SQL developer who can write some queries.&amp;nbsp;&amp;nbsp;We can give a full description and access to a copy of the database as required.Budget: $500
+Posted On: September 24, 2018 18:12 UTCCategory: IT &amp;amp; Networking &amp;gt; Database Administration
+Skills:        SQL            Location Requirement: Only freelancers located in the United Kingdom may apply.
+Country: United Kingdomclick to apply</description>
+    <pubDate>Fri, 14 Sep 2018 15:51:42 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>We are looking for an experienced full stack Middle .Net Developer for a long term project - Upwork</title>
+    <description>Experience/Skills Required:
+&amp;bull;	Solid understanding of object-oriented programming (OOP)
+&amp;bull;	Good knowledge of C#, .NET Framework, .NET Core, ASP.NET MVC, Dependency Injection, Repository Pattern 
+&amp;bull;	Experience and working with a multi-level architecture (UI, Business Logic Layer, Data Access Layer)
+&amp;bull;	Experience with MySQL and ability to optimize and modify SQL Queries
+&amp;bull;	Good knowledge and experience with HTML/CSS (Twitter Bootstrap), JavaScript (jQuery)
+&amp;bull;	TDD, Unit Test
+&amp;bull;	2+ years experience with C#/.NET
+&amp;bull;	English: Upper-IntermediateBudget: $8
+Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Other - Software Development
+Skills:        C#,                     HTML,                     JavaScript            Country: Ukraineclick to apply</description>
+    <pubDate>Fri, 14 Sep 2018 13:09:54 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Simple modification of a batch file - Upwork</title>
+    <description>I want to modify an existing batch file which will open a random file from a folder. Any of the scripts on this page will work for this project:
+https://superuser.com/questions/872048/opening-random-file-from-folder-and-subfolders-with-batch-script-windows-7
+So what this script should be able to do is open two files. When it selects the first file, it should be able to save the name of the file and be able to open another corresponding folder with the same name in another folder. For example:
+First file: C:\Users\(name)\Documents\My Games - choose file and save name
+Second file: C:\Users\(name)\Documents\My Saves\(saved file name)\ - choose file
+When the script saves the name of the file it should automatically remove the last 4 characters from the name of the file when recording it - so &amp;amp;quot;X.exe&amp;amp;quot; becomes just &amp;amp;quot;X&amp;amp;quot;.Budget: $50
+Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Desktop Software Development
+Skills:        .NET Framework,                     C#,                     C++,                     CSS,                     HTML5,                     Java,                     JavaScript,                     PHP,                     Python,                     VBA,                     Windows App Development,                     WordPress            Country: United Statesclick to apply</description>
+    <pubDate>Fri, 14 Sep 2018 07:23:56 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Java server guy to handle our backend system in SPRING - Upwork</title>
+    <description>Hi guys! We are looking for a JAVA developer to handle our backend system for our app which is already released into the market. Backend is handled in Spring framework. Here are some key responsibilities that we are looking for:
+TECHNICAL SKILLS:
+-----------------------------------------------
+- JAVA Basic+EE Expertise
+- FCM (extremely important)
+- Spring and Hibernate framework
+- Restful APIs with JSON
+- Unit testing of APIs
+- Push notifications
+- integrate the SDKs and 3rd party libs
+- SQL queries expert
+- Git knowledge, we use Bitbuckt with SourceTree
+- Ability to build fast i.e to write fast and clean quality code
+- Having knowledge in android programming is a double plus
+NON-TECHNICAL SKILLS
+---------------------------------------------------------
+- Scrum/ Agile methodologies
+- Can do attitude
+- Quick learner
+- ATTENTION TO DETAILS
+- Available on Weekends if needed
+Other Requirement
+-	Basic UI/UX design ability is a plus
+-	Include coding samples together with your application.
+-	A link to your professional profile on linkedin, stackoverflow and/or github 
+-	This is a health-related app so if you have experience with these kind of apps, then it&amp;rsquo;s another plus. 
+-	When submitting your proposal, start by typing: &amp;ldquo;I am in&amp;rdquo; so we know that you took your time to thoroughly read through our proposals, otherwise proposal will be rejected. This is a long-term contract and you&amp;rsquo;d enjoy the ride. Cheers!Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Web Development
+Skills:        AngularJS,                     Hibernate,                     Java,                     Java EE,                     MySQL Programming,                     REST,                     Spring Framework,                     Web Design            Country: Ghanaclick to apply</description>
+    <pubDate>Thu, 13 Sep 2018 02:19:05 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Expert MS Access App Designer &amp;amp;amp; Developer Needed Deployment of Commercial Access App - Upwork</title>
+    <description>We have an operational MS Access App which uses Access front-end and Sharepoint back-end to provide users nearly a dozen problem-solving forms and reports.
+The App has several bad behaviors that must be resolved ahead of deployment.
+We are looking for a MS Access Expert fluent in:
+- Familiar with building and deploying MS Access Apps for commercial use
+- Familiar with designing and executing Forms and Reports
+- Debugging/Writing error-trapping VBA code
+- Deploying robust error-free VBA code
+- Writing Jet SQL expertise without query-builder support
+Workflow includes daily stand ups, weekly demos, and ongoing intraday engagement with the Team.Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Web Development
+Skills:        HTML,                     JavaScript,                     SQL,                     Web Design            Location Requirement: Only freelancers located in the United States may apply.
+Country: United Statesclick to apply</description>
+    <pubDate>Wed, 12 Sep 2018 20:15:08 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Full-stack .NET developer with Azure Experience - Upwork</title>
+    <description>The XBridge team is looking for a hands-on full-stack .NET developer with Azure experience to build and support their growing healthcare data framework. This role involves being a team player involved in the design, development, and deployment of innovative solutions for our clients, as well as supporting enhancements and improvements to the platform. This person will also be active in supporting and monitoring the production Azure infrastructure and code base to ensure uptime, reliability, and scalability.&amp;nbsp;&amp;nbsp;
+The XBridge team is a small scrappy group, where all players have the opportunity to wear many hats. Therefore, the person in this role is expected to be a utility player that can leverage a broad skillset beyond just coding. Interpersonal skills, design skills, flexibility, and a &amp;ldquo;get after it&amp;rdquo; attitude are essential for success within our cohesive, dynamic team. 
+Responsibilities:
+Design, develop, improve, and maintain cloud-based, high-performance, and scalable solutions 
+Build high quality software components adhering to coding standards and best practices 
+Perform effective code reviews and collaborate with team 
+Collaborate with internal and external stakeholders effectively in building, testing, and deploying applications 
+Manage work effectively using VSTS product backlog items, tasks, and bugs 
+Participate in agile development process and contribute to its evolution 
+Leverage automated build- and release-management processes for CI/CD 
+Required Skills:
+C#, ASP.NET MVC, Entity Framework, Web API, SQL Server 
+HTML, CSS, JavaScript, jQuery, Bootstrap 
+Creating and consuming RESTful APIs (JSON/XML) 
+Experience with Agile development processes, methodologies, and tools 
+Experience with Git to manage branches, merge commits, and resolve code conflicts 
+An ability to design end-to-end solutions with sometimes novel business requirements&amp;nbsp;&amp;nbsp;
+Bonus Points:
+Healthcare technology experience, including HL7 2.x and FHIR 
+NoSQL database storage and query experience (Azure Cosmos DB) 
+Strong experience with the Microsoft Azure ecosystem including deploying, maintaining and monitoring Azure resources including: 
+App Services 
+Azure Service Bus 
+Azure Application Insights 
+Azure Storage Accounts 
+VSTS experience for sprint management and code/build processes 
+Web tools including Postman, Chrome Developer Tools, and FiddlerPosted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Web Development
+Skills:        ASP.NET,                     ASP.NET MVC,                     ASP.NET Web API,                     Microsoft Azure App Services,                     Bootstrap,                     C#,                     Entity Framework,                     FHIR,                     Git,                     HL7,                     JavaScript,                     JSON,                     Microsoft SQL Server Programming,                     NoSQL,                     Microsoft Windows Azure,                     XML            Location Requirement: Only freelancers located in the United States may apply.
+Country: United Statesclick to apply</description>
+    <pubDate>Wed, 12 Sep 2018 19:50:50 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Google stack app to help doctors in Africa - Upwork</title>
+    <description>A developer has created a Windows (tablet) based standalone C# .NET prototype application to collect patient data in hospitals in Africa. The prototype has the following functionality:
+1. Simple use case: 
+- A patient walks into a mobile hospital and lays his finger on the scanner. 
+- If he has not visited one of the mobile hospitals before, he will be asked for personalia, like name, birth date, medical history and a picture is taken with the webcam and his fingerprints are scanned and stored in the local database. 
+- If he has visited one of the mobile hospitals before his record will show up + previous session. The GPS sensor is used to also store the current location. 
+- The doctor/nurse fills takes his temperature, blood pressure and fills out the session form, which is also stored in the local database. 
+- When the doctor/nurse returns in the evening or by the end of the week back to the city the laptop/tablet will be connected with the Internet and the local database is synced with the central database. Also the changes from other mobile hospitals are copied to the local database. 
+- The dashboard which contains anonymized patient data on an aggregated level is updated after each sync request. 
+2. Is able to work function in offline circumstance and when there is a connection to the Internet available (typical a few times per month), the data is synced with a central server. Also it should behalf good on unstable internet connections. 
+3. Uses a fingerprint external hardware device (e.g. TWAIN) to identify patients. We have two Futronic fingerprint devices (http://www.futronic-tech.com/download.html) which function well with the prototype, but another brand external fingerprint device which has a better API could also be used. If possible, we would like to have a general solution in which we do not depend on a single finger print scanner brand and its API. 
+4. Supports different platforms (at least Android, but preferable also iOs and browser based versions which would work on any device which is able to open a browser). 
+5. Proposed simplified database structure,:
+&amp;nbsp;&amp;nbsp;&amp;nbsp;- one mobile hospital (also called firm) holds many patients
+&amp;nbsp;&amp;nbsp;&amp;nbsp;- one patients holds many sessions (=visits to the doctor)
+&amp;nbsp;&amp;nbsp;&amp;nbsp;- one firm holds many users (which need credentials to sign in)
+6. A dashboard with anonymized data should also be created. See for example this URL(http://132.148.245.146/test.html). This URL is dynamically connected with the SQL Server database to which the prototype C# app pushes the the collected dummy data. 
+I would like to ask to do the following:
+A. Create (web)app with the same functionality as the prototype using Google libraries. And with some additional features:
+- possibility to export a patient record and its sessions to PDF. 
+- has a more professional and user friendly user interface, for example easily browse through previous sessions and see whatat field have changed. 
+- stores fingerprint and webcam images in an efficient way. We would like to store data for 500,000 patients on a 128GB microSD card and if we will have more patients in the future we might want to us an extrnal device to store data. Also the lookup by fingerprint should work efficient in a large patient database. 
+- new fields will be added. 
+B. Create back end which is hosted in the Google Cloud 
+C. Create dashboard to get overview of aggregated data like the URL below. 
+We would like to use platforms created/maintained by Google. We would think of:
+- IndexedDB &amp;amp;amp; Service Worker: https://developers.google.com/web/ilt/pwa/live-data-in-the-service-worker
+- native promises: https://developers.google.com/web/fundamentals/primers/promises
+- node.js webserver: https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e
+- flutter: https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905 
+- google big query: https://cloud.google.com/bigquery/
+- google data studio: https://www.google.com/analytics/data-studio/
+And for the scanner drives, this approach might be helpful: https://asprise.com/document-scan-upload-image-browser/direct-to-server-php-asp.net-overview.html
+I attached screenshots of the app. 
+I would like to use upwork tools for automatic time registration (including screen capturing while you work for me), let me know if that is a problem for you.Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Desktop Software Development
+Skills:        BigQuery,                     Flutter,                     Google Data Studio,                     GUI Design,                     Node.js,                     Web Content Development            Country: Netherlandsclick to apply</description>
+    <pubDate>Wed, 12 Sep 2018 11:58:14 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Pythan developer required - Upwork</title>
+    <description>Roles &amp;amp;amp; Responsibilities:
+Should have 2+ years creating predictive models using advance machine learning
+techniques
+Should have an expert command of statistical analysis, algorithm development, and state-
+of-the-art, tools and methodologies for data science
+Should have expert command of SQL and R or Python as applied to data science with
+experience with
+AWS/Hadoop/Spark would be a plus
+Write and implement software solutions that integrate different systems.
+Identify and suggest various opportunities to improve efficiency and functionality.
+Integrate data storage solutions.
+Strong analytical skills are needed since the work that machine learning engineers do
+involves projecting outcomes and isolating issues that need to be resolved to make
+programs more effective.
+Experience querying databases and using statistical computer languages: R, Python, SQL
+etc.
+Competencies &amp;amp;amp; Skills:
+Familiarity with Python web stacks.
+In-depth knowledge of different frameworks (e.g. Django, Flask)Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Web Development
+Skills:        CSS,                     Django,                     JavaScript,                     Python,                     R,                     REST            Country: Indiaclick to apply</description>
+    <pubDate>Wed, 12 Sep 2018 07:00:53 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
+    <title>Power BI, SQL Server - Upwork</title>
+    <description>The Power BI Developer will develop analytic models to power thoughtful data visualization that deliver insights on our customers and power consumer personalization and engagement.
+KEY RESPONSIBILITIES
+Develop and maintain BI semantic models to power self-service and data discovery for marketing and business users.
+Experience in optimizing Microsoft Power BI dashboards with a focus on usability, performance, flexibility, testability, and standardization
+Experience with other Data Visualization and BI tools (Tableau, Qlik, SAP BOBJ, Cognos, MSTR) and Microsoft Reporting tools SSRS &amp;amp;amp; SSAS
+Assist other team members with SQL queries necessary to extract, transform, or load data as part of integration and analysis development.
+Collaborate with business stakeholders in relation to User Acceptance Testing (UAT) and Quality Assurance for functional testing.
+Provide leadership and technical guidance related to business intelligence including SQL Azure, Azure Analysis Services, and Power BI
+Work with the team to architect, design, and develop quality business intelligence deliverables.
+REQUIREMENTS
+3+ Years of experience working directly with Microsoft Power BI (Power BI Pro, Premium, and experience with dimensional modeling)
+6+ years total in DW/BI and Data Visualization design, development and implementation
+Demonstrated ability to design meaningful and immersive visualizations, dashboards, and reports that drive business insights using Power BI Pro and Premium.
+Proven experience developing and operating BI semantic models including OLAP capabilities using Microsoft Analysis Services.
+Knowledgeable in querying data stored using a broad range of data modeling techniques including third normal form, dimensional, and data vault modeling on Microsoft SQL Server-based technologies.
+Knowledge of the System Development Life Cycle, Agile/SCRUM methodologies
+Strong experience with Azure or other cloud providersPosted On: September 24, 2018 18:12 UTCCategory: Data Science &amp;amp; Analytics &amp;gt; Data Visualization
+Skills:        Data Analytics,                     Data Visualization,                     Microsoft Power BI,                     SQL            Country: Canadaclick to apply</description>
+    <pubDate>Wed, 12 Sep 2018 06:34:23 +0000</pubDate>
+  </FeedItem>
+  <FeedItem>
     <title>Need professional translators from English into Romanian - Upwork</title>
     <description>We have a project which needs professional translators from English into Romanian. 
 Subject: Christian books, sermons, testimony articles and gospel movie scripts, lyrics
@@ -11,7 +647,7 @@ Two basic requirements of the translators:
 1. Mother tongue: Romanian ( bilingual is preferred: Romanian and English)
 2. Rich experiences of religious translation from English to Romanian.
 Please fill the attached CV if you are interested in our project, so that we could also know which job may be suitable for you.Budget: $500
-Posted On: September 12, 2018 12:22 UTCCategory: Translation &amp;gt; General Translation
+Posted On: September 24, 2018 18:12 UTCCategory: Translation &amp;gt; General Translation
 Skills:        Film Dubbing,                     Music,                     Poetry,                     Proofreading,                     Reviews,                     Scripting,                     Translation,                     Translation English Romanian            Country: Franceclick to apply</description>
     <pubDate>Wed, 12 Sep 2018 00:35:48 +0000</pubDate>
   </FeedItem>
@@ -22,19 +658,19 @@ Subject: Christian books, sermons, testimony articles and gospel movie scripts, 
 Rate: always negotiable, depending on the quality and service provided
 Mode: Distribute articles to different translators batch by batch
 Deadline: Flexible for each batch
-Two basic requirements of the translators:
+Three basic requirements of the translators:
 1. Mother tongue: French ( bilingual is preferred: French and English)
 2. The translators should be French natives who can speak standard French.
 3. Rich experiences of religious translation from English to French.
 Please fill the attached CV if you are interested in our project, so that we could also know which job may be suitable for you.Budget: $500
-Posted On: September 12, 2018 12:22 UTCCategory: Translation &amp;gt; General Translation
+Posted On: September 24, 2018 18:12 UTCCategory: Translation &amp;gt; General Translation
 Skills:        Christian Theology,                     Editing,                     Music,                     Proofreading,                     Reviews,                     Scripting,                     Translation,                     Translation English French            Country: Franceclick to apply</description>
     <pubDate>Wed, 12 Sep 2018 00:24:07 +0000</pubDate>
   </FeedItem>
   <FeedItem>
     <title>Deep Barry White type voice for series of short audio ads and video voice over - Upwork</title>
     <description>Looking for a very deep, Barry white style talent for a series of short audio ads and video voice overs.&amp;nbsp;&amp;nbsp;This will be an ongoing project with possible additional milestones after the initial batch.&amp;nbsp;&amp;nbsp;A script and basic outline will be provided for each piece created.&amp;nbsp;&amp;nbsp;Each audio ad will be no longer than 30 seconds and the video overs no longer than 15 seconds. The initial contract is for 4 separate ads, each with it&amp;#039;s own milestone.&amp;nbsp;&amp;nbsp;The entire initial project (including all 4 milestones) is $120, or $30 each.Budget: $120
-Posted On: September 12, 2018 12:22 UTCCategory: Design &amp;amp; Creative &amp;gt; Voice Talent
+Posted On: September 24, 2018 18:12 UTCCategory: Design &amp;amp; Creative &amp;gt; Voice Talent
 Country: United Statesclick to apply</description>
     <pubDate>Tue, 11 Sep 2018 23:28:53 +0000</pubDate>
   </FeedItem>
@@ -79,7 +715,7 @@ Integrations
 3.	Airbrake or similar
 4.	Keymetrics or similar - Server Metrics, alerts, etc..
 5.	Slack integration 
-6.	Webhooks - creating, processing, debuggingPosted On: September 12, 2018 12:22 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Web Development
+6.	Webhooks - creating, processing, debuggingPosted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Web Development
 Skills:        Amazon S3,                     Amazon Web Services,                     AngularJS,                     Auth0,                     AWS Lambda,                     JavaScript,                     Linux System Administration,                     MEAN Stack Administration,                     MongoDB,                     Redis            Country: United Statesclick to apply</description>
     <pubDate>Tue, 11 Sep 2018 15:59:15 +0000</pubDate>
   </FeedItem>
@@ -98,7 +734,7 @@ Hawk-like	attention	to	detail
 Dog-like	dependability
 Ox-like	work	ethic
 Cat-like	reflexes
-Please	respond	with	your	availability,	samples	of	past	work,	and	favorite	&amp;lsquo;80s	movie.Posted On: September 12, 2018 12:22 UTCCategory: Admin Support &amp;gt; Personal / Virtual Assistant
+Please	respond	with	your	availability,	samples	of	past	work,	and	favorite	&amp;lsquo;80s	movie.Posted On: September 24, 2018 18:12 UTCCategory: Admin Support &amp;gt; Personal / Virtual Assistant
 Skills:        Internet Research,                     Virtual Assistant            Country: United Statesclick to apply</description>
     <pubDate>Mon, 10 Sep 2018 19:54:13 +0000</pubDate>
   </FeedItem>
@@ -110,7 +746,7 @@ We have a supplement product and we have a girl who is already a video actress w
 This is how we&amp;#039;re going to push people to read (her) article, which is an advertorial that gives a review of the product.
 I have an example to show you what we&amp;#039;ve done in the past that have worked, and we&amp;#039;d like more quality, persuasive scripts.
 This will be continuous, every week or so we&amp;#039;d come up with a good batch of 5 scripts or so.
-If this is something that interests you, I&amp;#039;d love to hear back!Posted On: September 12, 2018 12:22 UTCCategory: Writing &amp;gt; Copywriting
+If this is something that interests you, I&amp;#039;d love to hear back!Posted On: September 24, 2018 18:12 UTCCategory: Writing &amp;gt; Copywriting
 Skills:        Copywriting,                     Sales Writing,                     Scriptwriting            Location Requirement: Only freelancers located in the United States may apply.
 Country: United Statesclick to apply</description>
     <pubDate>Fri, 07 Sep 2018 20:23:59 +0000</pubDate>
@@ -122,46 +758,14 @@ Subject: Christian books, sermons, testimony articles and gospel movie scripts, 
 Rate: always negotiable, depending on the quality and service provided
 Mode: Distribute articles to different translators batch by batch
 Deadline: Flexible for each batch
-Two basic requirements of the translators:
+Three basic requirements of the translators:
 1. Mother tongue: French ( bilingual is preferred: French and English)
 2. The translators should be French natives who can speak standard French.
 3. Rich experiences of religious translation from English to French.
 Please fill the attached CV if you are interested in our project, so that we could also know which job may be suitable for you.Budget: $500
-Posted On: September 12, 2018 12:22 UTCCategory: Translation &amp;gt; General Translation
+Posted On: September 24, 2018 18:12 UTCCategory: Translation &amp;gt; General Translation
 Skills:        Christian Theology,                     Editing,                     Music,                     Proofreading,                     Reviews,                     Scripting,                     Translation,                     Translation English French            Country: Franceclick to apply</description>
     <pubDate>Mon, 03 Sep 2018 19:48:27 +0000</pubDate>
-  </FeedItem>
-  <FeedItem>
-    <title>ETL in AWS - Upwork</title>
-    <description>Hi Freelancers
-I need to create an ETL workflow like this: Scraper (I&amp;#039;m using parse hub and Octoparse) -&amp;amp;gt; S3 -&amp;amp;gt; Lambda for Batch processing -&amp;amp;gt; Amazon Comprehend -&amp;amp;gt; Elasticsearch -&amp;amp;gt; Kibana
-Job Specifics:
-1) S3 -&amp;amp;gt; Lambda -&amp;amp;gt; Comprehend. After csv data is loaded in S3, batch process the data using Lambda to Amazon Comprehend. Here I need a script to format data in the correct format, Example. The date is in this format: on June 3, 2018, Also some columns are in text format. See attached file of example scrapping output. 
-The script should be reusable and easy to modify to create other similar jobs. 
-2) Amazon Comprehend NPL: Here I need to extract keywords and Entities for each line, I need to create a Bag of words for keywords phrases and entities using Kibana. 
-3) Amazon Comprehend to Elasticsearch: Data from Comprehend should be sent to a new index. Each ETL pipeline should have its own Index.
-4) Elastic Search Kibana: Here we need you to install ES, Kibana using AWS, Install SearchGuard Free plugin for access and authenticationBudget: $100
-Posted On: September 12, 2018 12:22 UTCCategory: IT &amp;amp; Networking &amp;gt; Network &amp;amp; System Administration
-Skills:        Amazon EC2,                     AWS Lambda,                     Elasticsearch,                     &amp;quot;Extract, Transform and Load (ETL)&amp;quot;,                     Python            Country: Ecuadorclick to apply</description>
-    <pubDate>Mon, 03 Sep 2018 19:03:49 +0000</pubDate>
-  </FeedItem>
-  <FeedItem>
-    <title>Developer needed to create node based sync utility for (SFDC) Salesforce Dot Com. - Upwork</title>
-    <description>Summary: 
-We need to execute an SFDC batch job, download the results, and log them to the console. We will use 2 NodeJS scripts. The first script (Invoker) will initiate the SFDC batch job to query all accounts in the SFDC instance that have a specific custom field set. The second script (Downloader) will check if the batch job succeeded, and if it did, download the results and log them to the console.
-Requirements:
-&amp;bull;	The NodeJS scripts should use ES 2017, Babel and Node version 8.11.4. 
-&amp;bull;	The scripts should assume that they will log in as an SFDC user with access to the SFDC instance. 
-&amp;bull;	The username, password, and SFDC instance should be parameters in the function being called.
-&amp;bull;	The field the Invoker will use for filtering should be a parameter on the function.
-Link to video that shows the process of running a batch job in SF
-https://drive.google.com/drive/folders/19gjo1tQLkG5JbCP_aLM207M1Jepiby5h?usp=sharing
-From what is described in the video link above, we are basically looking to turn that into a scriptable process via node.
-We already have a code baseline to start from. The baseline code is a complete compilable node project with linting/babel already setup ready to go.
-We have a repo to work from ready to go see attached screen shoots of baseline project.Budget: $300
-Posted On: September 12, 2018 12:22 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Scripts &amp;amp; Utilities
-Skills:        API Development,                     Babel,                     Es6,                     Node.js,                     Salesforce Marketing Cloud            Country: United Statesclick to apply</description>
-    <pubDate>Sat, 01 Sep 2018 17:46:44 +0000</pubDate>
   </FeedItem>
   <FeedItem>
     <title>Male Mandarin voice talent -30 - 40 lessons.  Each lesson approx. 1500 words. - Upwork</title>
@@ -176,7 +780,7 @@ Requirements to be a candidate:
 4) Willing to discuss delivery time to meet time requirements. I would say approximately 10-14 days would be a solid window.
 I appreciate and respect your willingness to audition.&amp;nbsp;&amp;nbsp;I&amp;#039;m not asking you to record the whole document, just a two or three sections to showcase tonality, pacing, delivery.&amp;nbsp;&amp;nbsp;Thank you -- Mark
 PS - the short script doesn&amp;#039;t seem to come out in the format that allows you to see the spaces between the paragraphs. Use your discernment and feel free to include ample pausesBudget: $6,000
-Posted On: September 12, 2018 12:22 UTCCategory: Design &amp;amp; Creative &amp;gt; Voice Talent
+Posted On: September 24, 2018 18:12 UTCCategory: Design &amp;amp; Creative &amp;gt; Voice Talent
 Country: United Statesclick to apply</description>
     <pubDate>Wed, 29 Aug 2018 21:10:52 +0000</pubDate>
   </FeedItem>
@@ -187,7 +791,7 @@ This script was for converting a word document, PowerPoint, or excel document in
 We need to have this app fixed or a similar script to be developed to convert word documents into PDFs. 
 The word document should convert into a pdf in the same exact size that it is currently in and be &amp;ldquo;marginless&amp;rdquo;. 
 Also, we have 2 scripts that print using two different page sizes, but these are broken too.Budget: $100
-Posted On: September 12, 2018 12:22 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Scripts &amp;amp; Utilities
+Posted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Scripts &amp;amp; Utilities
 Skills:        AppleScript,                     JavaScript            Country: United Statesclick to apply</description>
     <pubDate>Tue, 28 Aug 2018 18:57:31 +0000</pubDate>
   </FeedItem>
@@ -207,7 +811,7 @@ Please provide with your answer
 - your full fee including debugging and Q&amp;amp;amp;A
 - time for completion
 - experience in similar tasks
-- resume with qualificationsPosted On: September 12, 2018 12:22 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Web Development
+- resume with qualificationsPosted On: September 24, 2018 18:12 UTCCategory: Web, Mobile &amp;amp; Software Dev &amp;gt; Web Development
 Country: Russiaclick to apply</description>
     <pubDate>Thu, 23 Aug 2018 06:01:16 +0000</pubDate>
   </FeedItem>
@@ -229,7 +833,7 @@ REQUIREMENTS:
 - HTML + CSS
 - 100% fluent in English
 - Available to work at least 1-2 hours each weekday
-No upfront payment. Payment is made based on hours every 2 weeks or every month.Posted On: September 12, 2018 12:22 UTCCategory: Sales &amp;amp; Marketing &amp;gt; Email &amp;amp; Marketing Automation
+No upfront payment. Payment is made based on hours every 2 weeks or every month.Posted On: September 24, 2018 18:12 UTCCategory: Sales &amp;amp; Marketing &amp;gt; Email &amp;amp; Marketing Automation
 Skills:        Email Deliverability,                     Email Handling,                     Email Marketing,                     Email Technical Support,                     HTML,                     JavaScript,                     Lead Generation,                     Marketing Automation,                     SendGrid            Location Requirement: Only freelancers located in the United States may apply.
 Country: United Statesclick to apply</description>
     <pubDate>Wed, 22 Aug 2018 22:14:33 +0000</pubDate>
@@ -260,55 +864,9 @@ Do the low hanging fruits first.
 Lets make it a phased approach. 
 Automation of these frequently repetitive tasks with every client will save us a lot of time in deployments and will make us more productive. I have been working on some of these on my own but a powershell expert would be good to work with. 
 $100 is a placeholderBudget: $100
-Posted On: September 12, 2018 12:22 UTCCategory: IT &amp;amp; Networking &amp;gt; Network &amp;amp; System Administration
+Posted On: September 24, 2018 18:12 UTCCategory: IT &amp;amp; Networking &amp;gt; Network &amp;amp; System Administration
 Country: United Statesclick to apply</description>
     <pubDate>Wed, 22 Aug 2018 01:33:17 +0000</pubDate>
-  </FeedItem>
-  <FeedItem>
-    <title>Need a Powershell expert who can create PS scripts in batch file to automate Pre-install tasks - Upwork</title>
-    <description>You could do this in phased approach as well. Your PS scripts should be able to do these:
-For every new installation or deployment of software, we have to do many system checks and verifications on Windows Servers which we connect remotely via vpn connections. 
-Typically Windows Server 2012 R2 and above. Some are virtualized as well. SQL 2014 and above. 
-1. Get CPU, RAM, Drives, available memory on each drive
-2. Server manager - Add/Remove Roles and Features. 
-a) Check whether, .NET Framework 4.5, IIS and bunch of other Server components and Windows Server Features are installed
-3. Registry Verifications and modify registry entries and values if needed
-4. Run SQL commands from command prompt
-Also minor things like these Remote desktop connections will go back to screen saver mode and I have to enter password every time to go back in. 
-while I am working on Application Server, I want to keep RDP sessions of other Servers open so I can go back in and out without having to enter password every time.
-We access these RDPs via Jump servers. Same for Jump servers. 
-Also don&amp;#039;t want our PCs to go back to screen saver mode so I have to enter password to get back in to check the progress on how the installs on RDP sessions are coming along. 
-Lets define the scope of work. 
-Do the low hanging fruits first. 
-Lets make it a phased approach. 
-Automation of these frequently repetitive tasks with every client will save us a lot of time in deployments and will make us more productive. I have been working on some of these on my own but a powershell expert would be good to work with. 
-$100 is a placeholderBudget: $100
-Posted On: September 12, 2018 12:22 UTCCategory: IT &amp;amp; Networking &amp;gt; Network &amp;amp; System Administration
-Country: United Statesclick to apply</description>
-    <pubDate>Tue, 14 Aug 2018 20:35:43 +0000</pubDate>
-  </FeedItem>
-  <FeedItem>
-    <title>WAS Admin (Websphere) - Upwork</title>
-    <description>WAS Admin
-Employment Type: Full Time or Contractor
-Location: Milwaukee, WI.
-Basic Skills
-Hands on experience on Websphere 7.0, 8.0, 9.0, Redhat Linux and AIX.
-Preferred Skills
-IBM MQ and Mule ESB.
-Code deployment tools like UrbanCode, knowledge of scripting tools like Batch, Perl and Python.
-Certifications on IBM and Websphere are also taken into consideration
-Soft Skills Desired
-Good written and verbal communication skills
-Ability to work on Agile-based project
-Exposure to SafeAgile framework
-Availability to work on weekends for deployment and critical support activities
-Experience: 6-8 years
-Visa requirements: H1B, GC EAD
-Job Types: Full-time, ContractPosted On: September 12, 2018 12:22 UTCCategory: IT &amp;amp; Networking &amp;gt; Network &amp;amp; System Administration
-Skills:        IBM WebSphere,                     Python,                     Red Hat Enterprise Linux (RHEL)            Location Requirement: Only freelancers located in the United States may apply.
-Country: United Statesclick to apply</description>
-    <pubDate>Tue, 14 Aug 2018 00:20:52 +0000</pubDate>
   </FeedItem>
   <FeedItem>
     <title>Burmese Reading Audio Review - Upwork</title>
@@ -318,7 +876,7 @@ Here is the range of audio review, which means reviewers need to check these poi
 2. Added words, incorrect words, missing words, pronunciation mistakes, pause error and so on.
 3. Reading Style: the tone needs to be suitable for the content, and the pace can quiet your heart to ponder over the words while listening.
 4. Background Music: overall tone and the volume of the soundtrack need to be compatible with the related Type, and quieten people&amp;rsquo;s heart to ponder over the words.
-If you have any interest, please contact us with CV. Thank you!Posted On: September 12, 2018 12:22 UTCCategory: Design &amp;amp; Creative &amp;gt; Other - Design &amp;amp; Creative
+If you have any interest, please contact us with CV. Thank you!Posted On: September 24, 2018 18:12 UTCCategory: Design &amp;amp; Creative &amp;gt; Other - Design &amp;amp; Creative
 Skills:        Audio Production,                     Burmese,                     English,                     Translation English Burmese            Country: United Statesclick to apply</description>
     <pubDate>Tue, 07 Aug 2018 03:43:15 +0000</pubDate>
   </FeedItem>
@@ -352,23 +910,9 @@ Security tools like Fortify, Nessus.
 Network architecture (routing, load balancing, firewalls, VLANs).
 Virtualization (VMWare, XEN, KVM, Openstack).
 Container technologies (Mesos, Docker, Rocket, etc.).
-Experience in setting up backup and restore mechanism for the DB and other relevant systems.Posted On: September 12, 2018 12:22 UTCCategory: IT &amp;amp; Networking &amp;gt; Network &amp;amp; System Administration
+Experience in setting up backup and restore mechanism for the DB and other relevant systems.Posted On: September 24, 2018 18:12 UTCCategory: IT &amp;amp; Networking &amp;gt; Network &amp;amp; System Administration
 Country: Indiaclick to apply</description>
     <pubDate>Tue, 31 Jul 2018 12:37:24 +0000</pubDate>
-  </FeedItem>
-  <FeedItem>
-    <title>British / Australian / S. Africa Voiceover Training Videos - Upwork</title>
-    <description>I need to create voice over videos for our training classes.
-The goal is to make extremely dry, boring content at least sound good.
-I will provide Powerpoint file and script by page.&amp;nbsp;&amp;nbsp;Each Powerpoint is approx 10 pages and the script averages about 1000 words.&amp;nbsp;&amp;nbsp;
-I need the video output in a video format (MP4)-- basically PP file with voice over.
-The first client has approx 60 videos.
-The first batch, which we would consider a test would be 6 videos-- each about 1000 words. 
-Assuming this first batch goes well, we will send remaining 54 videos.
-I may be willing to pay extra for video of speaking along with PP (As I have heard retention is better when watching people speak).&amp;nbsp;&amp;nbsp;This is obviously dependent on &amp;#039;look&amp;#039;.Budget: $125
-Posted On: September 12, 2018 12:22 UTCCategory: Design &amp;amp; Creative &amp;gt; Voice Talent
-Country: United Statesclick to apply</description>
-    <pubDate>Thu, 26 Jul 2018 16:18:22 +0000</pubDate>
   </FeedItem>
   <FeedItem>
     <title>Photoshop editor for repeated work adding text using actions - Upwork</title>
@@ -383,7 +927,7 @@ I am looking for fast worker, and&amp;nbsp;&amp;nbsp;quick learner since the tim
 We will post the Photoshop projects on the shared drive like onedrive. After the job is done the ready photo will be uploaded to the same share drive by you.
 Required number of hours weekly is min 30.
 I am looking for freelancers with the lowest rates
-Pay is $3 an hour.Posted On: September 12, 2018 12:22 UTCCategory: Design &amp;amp; Creative &amp;gt; Graphic Design
+Pay is $3 an hour.Posted On: September 24, 2018 18:12 UTCCategory: Design &amp;amp; Creative &amp;gt; Graphic Design
 Skills:        Adobe Photoshop,                     Photo Editing            Country: United Kingdomclick to apply</description>
     <pubDate>Wed, 18 Jul 2018 22:33:48 +0000</pubDate>
   </FeedItem>
@@ -396,7 +940,7 @@ Below are the tasks I would like you to do:
 1. Take the captured facial performance and reconstruct using Photogrammetry application into a per frame mesh and texture (if using RealityCapture you can write script to handle Batch processing with command line utility)
 2. Import the models into Maya, and create a visibility script, setting the scans visibility on a per frame basis (should take about 10 minutes of coding) 
 3. In Maya create a rough lightrig for preview purposes
-This job was posted from a mobile device, so please pardon any typos or any missing details.Posted On: September 12, 2018 12:22 UTCCategory: Design &amp;amp; Creative &amp;gt; Animation
+This job was posted from a mobile device, so please pardon any typos or any missing details.Posted On: September 24, 2018 18:12 UTCCategory: Design &amp;amp; Creative &amp;gt; Animation
 Country: United Kingdomclick to apply</description>
     <pubDate>Mon, 16 Jul 2018 12:16:39 +0000</pubDate>
   </FeedItem>
@@ -408,7 +952,7 @@ Here is the range of audio review, which means reviewers need to check these poi
 2. Added words, incorrect words, missing words, pronunciation mistakes, pause error and so on.
 3. Reading Style: the tone needs to be suitable for the content, and the pace can quiet your heart to ponder over the words while listening.
 4. Post-production: if vocals and reverberation are pleasant to hear; if the overall tone and the volume of the background music is soft, and will not impair people&amp;rsquo;s ability to hear God&amp;rsquo;s words.
-If you have any interest, please contact us with CV. Thank you!Posted On: September 12, 2018 12:22 UTCCategory: Design &amp;amp; Creative &amp;gt; Other - Design &amp;amp; Creative
+If you have any interest, please contact us with CV. Thank you!Posted On: September 24, 2018 18:12 UTCCategory: Design &amp;amp; Creative &amp;gt; Other - Design &amp;amp; Creative
 Skills:        Audio Engineering,                     Audio Production,                     Dutch,                     English,                     Voice Over Dutch            Country: United Statesclick to apply</description>
     <pubDate>Sun, 15 Jul 2018 21:31:02 +0000</pubDate>
   </FeedItem>
