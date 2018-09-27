@@ -6,6 +6,9 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
+using System.Web;
+using System.IO;
+using System.Net;
 
 namespace RssReader.DataStructure
 {
@@ -15,11 +18,10 @@ namespace RssReader.DataStructure
         //#TODO:Sajjid Atta: Updae Class Fields and Methods
         [XmlElement("title")]
         public string Title { get; set; }
-        [XmlElement("description")]
-        public string Description { get; set; }
         [XmlElement("link")]
         public string Link { get; set; }
-
+        [XmlElement("description")]
+        public string Description { get; set; }
         [XmlElement("pubDate")]
         public string PublishedDate { get; set; }
 
@@ -27,9 +29,12 @@ namespace RssReader.DataStructure
         internal FeedItem FurnishFeedItem()
         {
             FeedItem temp = new FeedItem();
+            temp.Description = WebUtility.HtmlDecode(Description); //To Decode &amp; etc
             temp.Description = Regex.Replace(Description, "<.+?>", string.Empty);
-            temp.Title = this.Title;
+            
+            temp.Title = Title;
             temp.PublishedDate = PublishedDate;
+            temp.Link = Link;
             return temp;
 
         }
