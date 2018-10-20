@@ -1,0 +1,9 @@
+D:\PersonelSVN\trunk\RssFeedNotifier\FeedNotifier\obj\Debug\FeedNotifier.csprojResolveAssemblyReference.cache
+D:\PersonelSVN\trunk\RssFeedNotifier\FeedNotifier\bin\Debug\FeedNotifier.dll
+D:\PersonelSVN\trunk\RssFeedNotifier\FeedNotifier\bin\Debug\FeedNotifier.pdb
+D:\PersonelSVN\trunk\RssFeedNotifier\FeedNotifier\bin\Debug\LogWriter.dll
+D:\PersonelSVN\trunk\RssFeedNotifier\FeedNotifier\bin\Debug\LogWriter.pdb
+D:\PersonelSVN\trunk\RssFeedNotifier\FeedNotifier\obj\Debug\FeedNotifier.dll
+D:\PersonelSVN\trunk\RssFeedNotifier\FeedNotifier\obj\Debug\FeedNotifier.pdb
+D:\PersonelSVN\trunk\RssFeedNotifier\FeedNotifier\bin\Debug\EmailSender.dll
+D:\PersonelSVN\trunk\RssFeedNotifier\FeedNotifier\bin\Debug\EmailSender.pdb

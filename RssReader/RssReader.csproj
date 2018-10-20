@@ -77,7 +77,12 @@
       <DependentUpon>Service1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\FeedNotifier\FeedNotifier.csproj">
+      <Project>{B46ADE68-B382-4CE4-A487-C7C0692AC830}</Project>
+      <Name>FeedNotifier</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

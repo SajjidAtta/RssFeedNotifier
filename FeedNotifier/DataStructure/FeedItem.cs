@@ -11,8 +11,11 @@ using System.IO;
 using System.Net;
 
 namespace FeedNotifier
+
 {
-    [Serializable, XmlRoot("item")]
+
+    public enum SentStatus { Sent, NotSent}
+    [Serializable, XmlRoot("FeedItem")]
     public class FeedItem : IComparable
     {
         //#TODO:Sajjid Atta: Updae Class Fields and Methods
@@ -24,9 +27,14 @@ namespace FeedNotifier
         public string Description { get; set; }
         [XmlElement("pubDate")]
         public string PublishedDate { get; set; }
-
+        public SentStatus NotificationStatus;
+        
+        public FeedItem()
+        {
+            NotificationStatus = SentStatus.NotSent;
+        }
         //I have created this function to Remove html from Description, Ignore non recent items
-        internal FeedItem FurnishFeedItem()
+        public FeedItem FurnishFeedItem()
         {
             FeedItem temp = new FeedItem();
             temp.Description = WebUtility.HtmlDecode(Description); //To Decode &amp; etc

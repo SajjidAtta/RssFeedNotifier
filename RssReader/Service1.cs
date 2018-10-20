@@ -1,4 +1,5 @@
-﻿using LogWriter;
+﻿
+using LogWriter;
 using RssReader.DataStructure;
 using System;
 using System.Collections.Generic;
@@ -28,7 +29,7 @@ namespace RssReader
         System.Timers.Timer servicetimer;
         string IOPath, logfile, outputxmlpath;
         string [] urls;
-
+      
 
         public RssReader()
         {
@@ -40,6 +41,8 @@ namespace RssReader
             rssXmlDoc = new XmlDocument();
             serializer = new XmlSerializer(typeof(FeedItem));
             FeedItems = new List<FeedItem>();
+
+            
 
 
         }
@@ -69,6 +72,8 @@ namespace RssReader
             CrawlandStore(rsslink);//Store in FeedItems List
             FeedItems.Sort();//Sort Feed Items by Time
             WriteFeedsToXml();//Serialize FeedItems List to XML
+            FeedNotifier.Notifier.Instance.StartNotifier();
+            
 
         }
 
@@ -94,16 +99,26 @@ namespace RssReader
             rssXmlDoc = new XmlDocument();
             try
             {
+                /*Changing this as it is getting cached Feed :(
                 using (var wc = new WebClient())
-                {
-                    //wc.Credentials = System.Net.CredentialCache.DefaultNetworkCredentials;
+                
                     wc.Headers.Add("user-agent", "MyRSSReader/1.0");
                     xmlStr = wc.DownloadString(url);
                     rssXmlDoc.LoadXml( xmlStr);
                 }
-            
-            
-            Logger.Instance.Log(Logger.MessageType.INF, "Deserializing RSS");
+                xmlStr = wc.DownloadString();
+                */
+                var wc = WebRequest.Create(url);
+                wc.CachePolicy = new System.Net.Cache.RequestCachePolicy(System.Net.Cache.RequestCacheLevel.NoCacheNoStore);
+                using (Stream stream = wc.GetResponse().GetResponseStream())
+                {
+                    StreamReader reader = new StreamReader(stream, Encoding.UTF8);
+                    xmlStr = reader.ReadToEnd();
+                }
+                rssXmlDoc.LoadXml(xmlStr);
+
+
+                Logger.Instance.Log(Logger.MessageType.INF, "Deserializing RSS");
             XmlNodeList ItemList = rssXmlDoc.GetElementsByTagName("item");
             for (int i = 0; i < ItemList.Count; i++)
             {

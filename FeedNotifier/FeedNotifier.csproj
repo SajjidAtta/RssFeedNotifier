@@ -30,6 +30,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EmailSender, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Utilities\EmailSender\bin\Debug\EmailSender.dll</HintPath>
+    </Reference>
+    <Reference Include="LogWriter">
+      <HintPath>..\..\Utilities\LogWriter\bin\Release\LogWriter.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
